@@ -273,7 +273,7 @@ var theaters = L.geoJson(null, {
       theaterSearch.push({
         name: layer.feature.properties.NAME,
         address: layer.feature.properties.LOCATION,
-        source: "Theaters",
+        source: "Police",
         id: L.stamp(layer),
         lat: layer.feature.geometry.coordinates[1],
         lng: layer.feature.geometry.coordinates[0]
@@ -489,7 +489,7 @@ $(document).one("ajaxStop", function () {
   });
 
   var theatersBH = new Bloodhound({
-    name: "Theaters",
+    name: "Police",
     datumTokenizer: function (d) {
       return Bloodhound.tokenizers.whitespace(d.name);
     },
@@ -556,7 +556,7 @@ $(document).one("ajaxStop", function () {
       header: "<h4 class='typeahead-header'>Info</h4>"
     }
   }, {
-    name: "Theaters",
+    name: "Police",
     displayKey: "name",
     source: theatersBH.ttAdapter(),
     templates: {
@@ -582,7 +582,7 @@ $(document).one("ajaxStop", function () {
     if (datum.source === "Boroughs") {
       map.fitBounds(datum.bounds);
     }
-    if (datum.source === "Theaters") {
+    if (datum.source === "Police") {
       if (!map.hasLayer(theaterLayer)) {
         map.addLayer(theaterLayer);
       }
