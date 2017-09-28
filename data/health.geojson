@@ -1,0 +1,634 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "OBJECTID_1": 1, "OBJECTID": 620, "NAME": "Umkiang Primary Health Centre", "LOCATION": "Umkiang", "CONSTITUEN": "Sutnga-Saipung", "DISTRICT": "Jaintia Hills", "CATEGORY": "Primary Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 92.385785248000047, 25.066470885000058 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "OBJECTID_1": 2, "OBJECTID": 605, "NAME": "Sohlap Health Sub Centre", "LOCATION": "Sohlap", "CONSTITUEN": "Shella", "DISTRICT": "East Khasi Hills", "CATEGORY": "Health Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.651712479000082, 25.142137796000043 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "OBJECTID_1": 3, "OBJECTID": 571, "NAME": "Sonatola Health Sub Centre", "LOCATION": "Sonatola", "CONSTITUEN": "Mawsynram", "DISTRICT": "East Khasi Hills", "CATEGORY": "Health Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.488840616000061, 25.147333607000064 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "OBJECTID_1": 4, "OBJECTID": 601, "NAME": "Ichamati Health Sub Centre", "LOCATION": "Ichamati", "CONSTITUEN": "Shella", "DISTRICT": "East Khasi Hills", "CATEGORY": "Health Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.684984945000053, 25.163511888000073 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "OBJECTID_1": 5, "OBJECTID": 570, "NAME": "Ryngku Health Sub Centre", "LOCATION": "Ryngku", "CONSTITUEN": "Mawsynram", "DISTRICT": "East Khasi Hills", "CATEGORY": "Health Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.56098974300005, 25.167442473000051 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "OBJECTID_1": 6, "OBJECTID": 797, "NAME": "Maheshkhola Sub Centre", "LOCATION": "Maheshkhola", "CONSTITUEN": "Ranikor", "DISTRICT": "West Khasi Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.981385019000072, 25.178142602000037 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "OBJECTID_1": 7, "OBJECTID": 808, "NAME": "Rongara", "LOCATION": "Rongara", "CONSTITUEN": "Rongara-Siju", "DISTRICT": "South Garo Hills", "CATEGORY": null }, "geometry": { "type": "Point", "coordinates": [ 90.827742202000081, 25.18184433600004 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "OBJECTID_1": 8, "OBJECTID": 614, "NAME": "Nongtalang Community Health Centre", "LOCATION": "Nongtalang", "CONSTITUEN": "Amlarem", "DISTRICT": "Jaintia Hills", "CATEGORY": "Community Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 92.054176746000053, 25.199305269000035 ] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "OBJECTID_1": 9, "OBJECTID": 572, "NAME": "Wahsherkhmut Health Sub Centre", "LOCATION": "Wahsherkhmut", "CONSTITUEN": "Pynursla", "DISTRICT": "East Khasi Hills", "CATEGORY": "Health Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.838931784000067, 25.198236241000075 ] } }
+,
+{ "type": "Feature", "id": 9, "properties": { "OBJECTID_1": 10, "OBJECTID": 581, "NAME": "Mawlong Primary Health Centre", "LOCATION": "Mawlong", "CONSTITUEN": "Shella", "DISTRICT": "East Khasi Hills", "CATEGORY": "Primary Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.684785112000043, 25.197776196000063 ] } }
+,
+{ "type": "Feature", "id": 10, "properties": { "OBJECTID_1": 11, "OBJECTID": 535, "NAME": "Sohbar Primary Health Centre", "LOCATION": "Sohbar", "CONSTITUEN": "Shella", "DISTRICT": "East Khasi Hills", "CATEGORY": "Primary Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.759463323000034, 25.199206177000065 ] } }
+,
+{ "type": "Feature", "id": 11, "properties": { "OBJECTID_1": 12, "OBJECTID": 794, "NAME": "Gillagora Sub Centre", "LOCATION": "Gillagora", "CONSTITUEN": "Ranikor", "DISTRICT": "West Khasi Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.017322746000048, 25.199314467000079 ] } }
+,
+{ "type": "Feature", "id": 12, "properties": { "OBJECTID_1": 13, "OBJECTID": 600, "NAME": "Lait-Tyra Health Sub Centre", "LOCATION": "Lait-Tyra", "CONSTITUEN": "Shella", "DISTRICT": "East Khasi Hills", "CATEGORY": "Health Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.738720120000039, 25.209460897000042 ] } }
+,
+{ "type": "Feature", "id": 13, "properties": { "OBJECTID_1": 14, "OBJECTID": 806, "NAME": "Baghmara Community Health Centre", "LOCATION": "Baghmara", "CONSTITUEN": "Baghmara", "DISTRICT": "South Garo Hills", "CATEGORY": "Community Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.656054391000055, 25.20126367000006 ] } }
+,
+{ "type": "Feature", "id": 14, "properties": { "OBJECTID_1": 15, "OBJECTID": 573, "NAME": "Mawkliaw Health Sub Centre", "LOCATION": "Mawkliaw", "CONSTITUEN": "Shella", "DISTRICT": "East Khasi Hills", "CATEGORY": "Health Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.81003062800005, 25.21867216600009 ] } }
+,
+{ "type": "Feature", "id": 15, "properties": { "OBJECTID_1": 16, "OBJECTID": 633, "NAME": "Pdengshakap Primary Health Centre", "LOCATION": "Pdengshakap", "CONSTITUEN": "Amlarem", "DISTRICT": "Jaintia Hills", "CATEGORY": "Primary Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 92.133977939000033, 25.222639334000064 ] } }
+,
+{ "type": "Feature", "id": 16, "properties": { "OBJECTID_1": 17, "OBJECTID": 788, "NAME": "Ranikor Community Health Centre", "LOCATION": "Ranikor", "CONSTITUEN": "Ranikor", "DISTRICT": "West Khasi Hills", "CATEGORY": "Community Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.221463329000073, 25.215600653000081 ] } }
+,
+{ "type": "Feature", "id": 17, "properties": { "OBJECTID_1": 18, "OBJECTID": 565, "NAME": "Nongtrai Health Sub Centre", "LOCATION": "Nongtrai", "CONSTITUEN": "Mawsynram", "DISTRICT": "East Khasi Hills", "CATEGORY": "Health Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.594477873000073, 25.222412569000085 ] } }
+,
+{ "type": "Feature", "id": 18, "properties": { "OBJECTID_1": 19, "OBJECTID": 619, "NAME": "Bataw  Primary Health Centre", "LOCATION": "Bataw", "CONSTITUEN": "Khliehriat", "DISTRICT": "Jaintia Hills", "CATEGORY": "Primary Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 92.243365203000053, 25.231530852000049 ] } }
+,
+{ "type": "Feature", "id": 19, "properties": { "OBJECTID_1": 20, "OBJECTID": 567, "NAME": "Phlangwanbroi Health Sub Centre", "LOCATION": "Phlangwanbroi", "CONSTITUEN": "Mawsynram", "DISTRICT": "East Khasi Hills", "CATEGORY": "Health Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.557411589000083, 25.22712404300006 ] } }
+,
+{ "type": "Feature", "id": 20, "properties": { "OBJECTID_1": 21, "OBJECTID": 599, "NAME": "Tyrna Health Sub Centre", "LOCATION": "Tyrna", "CONSTITUEN": "Shella", "DISTRICT": "East Khasi Hills", "CATEGORY": "Health Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.66517269700006, 25.229312022000045 ] } }
+,
+{ "type": "Feature", "id": 21, "properties": { "OBJECTID_1": 22, "OBJECTID": 682, "NAME": "Dalu Community Health Centre", "LOCATION": "Dalu", "CONSTITUEN": "Dalu", "DISTRICT": "West Garo Hills", "CATEGORY": "Community Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.259938214000044, 25.211851636000063 ] } }
+,
+{ "type": "Feature", "id": 22, "properties": { "OBJECTID_1": 23, "OBJECTID": 596, "NAME": "Rumnong Health Sub Centre", "LOCATION": "Rumnong", "CONSTITUEN": "Shella", "DISTRICT": "East Khasi Hills", "CATEGORY": "Health Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.627394158000072, 25.233147830000064 ] } }
+,
+{ "type": "Feature", "id": 23, "properties": { "OBJECTID_1": 24, "OBJECTID": 566, "NAME": "Tyngnger Health Sub Centre", "LOCATION": "Tyngnger", "CONSTITUEN": "Mawsynram", "DISTRICT": "East Khasi Hills", "CATEGORY": "Health Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.600779556000077, 25.241455342000052 ] } }
+,
+{ "type": "Feature", "id": 24, "properties": { "OBJECTID_1": 25, "OBJECTID": 790, "NAME": "Khonjowai Primary Health Centre", "LOCATION": "Khonjowai", "CONSTITUEN": "Ranikor", "DISTRICT": "West Khasi Hills", "CATEGORY": "Primary Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.062187235000067, 25.240638193000052 ] } }
+,
+{ "type": "Feature", "id": 25, "properties": { "OBJECTID_1": 26, "OBJECTID": 613, "NAME": "Pongtung St. Dispensary", "LOCATION": "Pongtung", "CONSTITUEN": "Pynursla", "DISTRICT": "East Khasi Hills", "CATEGORY": "Dispensary" }, "geometry": { "type": "Point", "coordinates": [ 91.954041829000062, 25.250166296000089 ] } }
+,
+{ "type": "Feature", "id": 26, "properties": { "OBJECTID_1": 27, "OBJECTID": 564, "NAME": "Lawbah Health Sub Centre", "LOCATION": "Lawbah", "CONSTITUEN": "Mawsynram", "DISTRICT": "East Khasi Hills", "CATEGORY": "Health Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.569998561000034, 25.248668163000048 ] } }
+,
+{ "type": "Feature", "id": 27, "properties": { "OBJECTID_1": 28, "OBJECTID": 580, "NAME": "Mawsahew Primary Health Centre", "LOCATION": "Mawsahew PHC", "CONSTITUEN": "Shella", "DISTRICT": "East Khasi Hills", "CATEGORY": "Primary Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.648784793000061, 25.252253970000083 ] } }
+,
+{ "type": "Feature", "id": 28, "properties": { "OBJECTID_1": 29, "OBJECTID": 798, "NAME": "Nonghyllam Sub Centre", "LOCATION": "Nonghyllam", "CONSTITUEN": "Ranikor", "DISTRICT": "West Khasi Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.142676875000063, 25.255913546000045 ] } }
+,
+{ "type": "Feature", "id": 29, "properties": { "OBJECTID_1": 30, "OBJECTID": 792, "NAME": "Mawpud Sub Centre", "LOCATION": "Mawpud", "CONSTITUEN": "Ranikor", "DISTRICT": "West Khasi Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.392648886000075, 25.261881641000059 ] } }
+,
+{ "type": "Feature", "id": 30, "properties": { "OBJECTID_1": 31, "OBJECTID": 597, "NAME": "Wahkaliar Health Sub Centre", "LOCATION": "Wahkaliar", "CONSTITUEN": "Shella", "DISTRICT": "East Khasi Hills", "CATEGORY": "Health Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.662656447000074, 25.265266326000074 ] } }
+,
+{ "type": "Feature", "id": 31, "properties": { "OBJECTID_1": 32, "OBJECTID": 637, "NAME": "Padu State Dispensary", "LOCATION": "Padu", "CONSTITUEN": "Amlarem", "DISTRICT": "Jaintia Hills", "CATEGORY": "State Dispensary" }, "geometry": { "type": "Point", "coordinates": [ 92.041899692000072, 25.269771904000038 ] } }
+,
+{ "type": "Feature", "id": 32, "properties": { "OBJECTID_1": 33, "OBJECTID": 709, "NAME": "Josipara Sub Centre", "LOCATION": "Josipara", "CONSTITUEN": "Dalu", "DISTRICT": "West Garo Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.260054120000063, 25.252215841000066 ] } }
+,
+{ "type": "Feature", "id": 33, "properties": { "OBJECTID_1": 34, "OBJECTID": 793, "NAME": "Nongkulang Sub Centre", "LOCATION": "Nongkulang", "CONSTITUEN": "Ranikor", "DISTRICT": "West Khasi Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.084565630000043, 25.273158020000039 ] } }
+,
+{ "type": "Feature", "id": 34, "properties": { "OBJECTID_1": 35, "OBJECTID": 801, "NAME": "Phlangkynshi Sub Centre", "LOCATION": "Phlangkynshi", "CONSTITUEN": "Mawkyrwat", "DISTRICT": "West Khasi Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.526219928000046, 25.287010028000054 ] } }
+,
+{ "type": "Feature", "id": 35, "properties": { "OBJECTID_1": 36, "OBJECTID": 548, "NAME": "Shella St. Dispensary", "LOCATION": "Shella", "CONSTITUEN": "Shella", "DISTRICT": "East Khasi Hills", "CATEGORY": "Dispensary" }, "geometry": { "type": "Point", "coordinates": [ 91.667322920000061, 25.290510548000043 ] } }
+,
+{ "type": "Feature", "id": 36, "properties": { "OBJECTID_1": 37, "OBJECTID": 569, "NAME": "Thieddieng Health Sub Centre", "LOCATION": "Thieddieng", "CONSTITUEN": "Mawsynram", "DISTRICT": "East Khasi Hills", "CATEGORY": "Health Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.631229036000036, 25.29580156500009 ] } }
+,
+{ "type": "Feature", "id": 37, "properties": { "OBJECTID_1": 38, "OBJECTID": 598, "NAME": "Mawphu Health Sub Centre", "LOCATION": "Mawphu", "CONSTITUEN": "Shella", "DISTRICT": "East Khasi Hills", "CATEGORY": "Health Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.651404697000032, 25.297680568000089 ] } }
+,
+{ "type": "Feature", "id": 38, "properties": { "OBJECTID_1": 39, "OBJECTID": 532, "NAME": "Mawsynram Community Health Centre", "LOCATION": "Mawsynram", "CONSTITUEN": "Mawsynram", "DISTRICT": "East Khasi Hills", "CATEGORY": "Community Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.593046413000081, 25.298618264000083 ] } }
+,
+{ "type": "Feature", "id": 39, "properties": { "OBJECTID_1": 40, "OBJECTID": 604, "NAME": "Mawlyndiar Health Sub Centre", "LOCATION": "Mawlyndiar", "CONSTITUEN": "Sohra", "DISTRICT": "East Khasi Hills", "CATEGORY": "Health Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.75681273400005, 25.304050674000052 ] } }
+,
+{ "type": "Feature", "id": 40, "properties": { "OBJECTID_1": 41, "OBJECTID": 526, "NAME": "Pynursla Primary Health Centre", "LOCATION": "Sohiong", "CONSTITUEN": "Pynursla", "DISTRICT": "East Khasi Hills", "CATEGORY": "Primary Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.891997940000067, 25.305163792000087 ] } }
+,
+{ "type": "Feature", "id": 41, "properties": { "OBJECTID_1": 42, "OBJECTID": 796, "NAME": "Phlangdiloin Sub Centre", "LOCATION": "Phlangdiloin", "CONSTITUEN": "Ranikor", "DISTRICT": "West Khasi Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.250849802000062, 25.305493178000063 ] } }
+,
+{ "type": "Feature", "id": 42, "properties": { "OBJECTID_1": 43, "OBJECTID": 621, "NAME": "Saipung Primary Health Centre", "LOCATION": "Saipung", "CONSTITUEN": "Sutnga-Saipung", "DISTRICT": "Jaintia Hills", "CATEGORY": "Primary Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 92.624115594000045, 25.321336669000061 ] } }
+,
+{ "type": "Feature", "id": 43, "properties": { "OBJECTID_1": 44, "OBJECTID": 634, "NAME": "Jarian  Primary Health Centre", "LOCATION": "Jarian", "CONSTITUEN": "Amlarem", "DISTRICT": "Jaintia Hills", "CATEGORY": "Primary Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 92.141817668000044, 25.319998611000074 ] } }
+,
+{ "type": "Feature", "id": 44, "properties": { "OBJECTID_1": 45, "OBJECTID": 534, "NAME": "Laitryngew  Primary Health Centre", "LOCATION": "Laitryngew", "CONSTITUEN": "Sohra", "DISTRICT": "East Khasi Hills", "CATEGORY": "Primary Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.739072569000029, 25.320448899000041 ] } }
+,
+{ "type": "Feature", "id": 45, "properties": { "OBJECTID_1": 46, "OBJECTID": 586, "NAME": "Khrang Health Sub Centre", "LOCATION": "Khrang", "CONSTITUEN": "Sohra", "DISTRICT": "East Khasi Hills", "CATEGORY": "Health Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.799689647000037, 25.326031472000068 ] } }
+,
+{ "type": "Feature", "id": 46, "properties": { "OBJECTID_1": 47, "OBJECTID": 638, "NAME": "Rymbai Primary Health Centre", "LOCATION": "Rymbai", "CONSTITUEN": "Khliehriat", "DISTRICT": "Jaintia Hills", "CATEGORY": "Primary Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 92.329218852000054, 25.331618081000045 ] } }
+,
+{ "type": "Feature", "id": 47, "properties": { "OBJECTID_1": 48, "OBJECTID": 791, "NAME": "Rangthong Primary Health Centre", "LOCATION": "Rangthong", "CONSTITUEN": "Ranikor", "DISTRICT": "West Khasi Hills", "CATEGORY": "Primary Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.402795797000067, 25.327596683000081 ] } }
+,
+{ "type": "Feature", "id": 48, "properties": { "OBJECTID_1": 49, "OBJECTID": 585, "NAME": "Kongthong Health Sub Centre", "LOCATION": "Kongthong", "CONSTITUEN": "Sohra", "DISTRICT": "East Khasi Hills", "CATEGORY": "Health Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.826165824000043, 25.335639695000054 ] } }
+,
+{ "type": "Feature", "id": 49, "properties": { "OBJECTID_1": 50, "OBJECTID": 603, "NAME": "Mawkma Health Sub Centre", "LOCATION": "Mawkma", "CONSTITUEN": "Sohra", "DISTRICT": "East Khasi Hills", "CATEGORY": "Health Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.718785801000081, 25.340088293000065 ] } }
+,
+{ "type": "Feature", "id": 50, "properties": { "OBJECTID_1": 51, "OBJECTID": 782, "NAME": "Porkhadoh Sub Centre", "LOCATION": "Porkhadoh", "CONSTITUEN": "Mawshynrut", "DISTRICT": "West Khasi Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.056060351000042, 25.336288171000035 ] } }
+,
+{ "type": "Feature", "id": 51, "properties": { "OBJECTID_1": 52, "OBJECTID": 711, "NAME": "Possenggagre Sub Centre", "LOCATION": "Possenggagre", "CONSTITUEN": "Gambegre", "DISTRICT": "West Garo Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.144157122000081, 25.322248950000073 ] } }
+,
+{ "type": "Feature", "id": 52, "properties": { "OBJECTID_1": 53, "OBJECTID": 588, "NAME": "Nohron Health Sub Centre", "LOCATION": "Nohron", "CONSTITUEN": "Mawkynrew", "DISTRICT": "East Khasi Hills", "CATEGORY": "Health Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 92.033525042000065, 25.347246981000069 ] } }
+,
+{ "type": "Feature", "id": 53, "properties": { "OBJECTID_1": 54, "OBJECTID": 587, "NAME": "Mawlat Health Sub Centre", "LOCATION": "Mawlat", "CONSTITUEN": "Mawkynrew", "DISTRICT": "East Khasi Hills", "CATEGORY": "Health Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.985949800000071, 25.350860444000091 ] } }
+,
+{ "type": "Feature", "id": 54, "properties": { "OBJECTID_1": 55, "OBJECTID": 575, "NAME": "Wahkhen Health Sub Centre", "LOCATION": "Wahkhen", "CONSTITUEN": "Pynursla", "DISTRICT": "East Khasi Hills", "CATEGORY": "Health Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.858635502000027, 25.351251690000083 ] } }
+,
+{ "type": "Feature", "id": 55, "properties": { "OBJECTID_1": 56, "OBJECTID": 712, "NAME": "Rimranpara Sub Centre", "LOCATION": "Rimranpara", "CONSTITUEN": "Gambegre", "DISTRICT": "West Garo Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.041668874000038, 25.331773211000041 ] } }
+,
+{ "type": "Feature", "id": 56, "properties": { "OBJECTID_1": 57, "OBJECTID": 680, "NAME": "Darengre Primary Health Centre", "LOCATION": "Darengre", "CONSTITUEN": "Gambegre", "DISTRICT": "West Garo Hills", "CATEGORY": "Primary Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.219899721000047, 25.337982834000059 ] } }
+,
+{ "type": "Feature", "id": 57, "properties": { "OBJECTID_1": 58, "OBJECTID": 533, "NAME": "Sohra Community Health Centre", "LOCATION": "Sohra", "CONSTITUEN": "Sohra", "DISTRICT": "East Khasi Hills", "CATEGORY": "Community Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.732302154000081, 25.359404540000071 ] } }
+,
+{ "type": "Feature", "id": 58, "properties": { "OBJECTID_1": 59, "OBJECTID": 617, "NAME": "Sutnga Community Health Centre", "LOCATION": "Sutnga", "CONSTITUEN": "Sutnga-Saipung", "DISTRICT": "Jaintia Hills", "CATEGORY": "Community Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 92.44484871700007, 25.366322508000053 ] } }
+,
+{ "type": "Feature", "id": 59, "properties": { "OBJECTID_1": 60, "OBJECTID": 616, "NAME": "Khliehriat Community Health Centre", "LOCATION": "Khliehriat", "CONSTITUEN": "Khliehriat", "DISTRICT": "Jaintia Hills", "CATEGORY": "Community Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 92.391978144000063, 25.367020308000065 ] } }
+,
+{ "type": "Feature", "id": 60, "properties": { "OBJECTID_1": 61, "OBJECTID": 602, "NAME": "Ladmawphlang Health Sub Centre", "LOCATION": "Ladmawphlang", "CONSTITUEN": "Sohra", "DISTRICT": "East Khasi Hills", "CATEGORY": "Health Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.757811209000067, 25.365845886000045 ] } }
+,
+{ "type": "Feature", "id": 61, "properties": { "OBJECTID_1": 62, "OBJECTID": 789, "NAME": "Wahkaji Primary Health Centre", "LOCATION": "Wahkaji", "CONSTITUEN": "Ranikor", "DISTRICT": "West Khasi Hills", "CATEGORY": "Primary Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.264412181000068, 25.365004643000077 ] } }
+,
+{ "type": "Feature", "id": 62, "properties": { "OBJECTID_1": 63, "OBJECTID": 807, "NAME": "Chpkpot Dispensary", "LOCATION": "Chokpot", "CONSTITUEN": "Chpkpot", "DISTRICT": "South Garo Hills", "CATEGORY": "Dispensary" }, "geometry": { "type": "Point", "coordinates": [ 90.393605723000064, 25.35292699300004 ] } }
+,
+{ "type": "Feature", "id": 63, "properties": { "OBJECTID_1": 64, "OBJECTID": 799, "NAME": "Mawkyrwat Community Health Centre", "LOCATION": "Mawkyrwat", "CONSTITUEN": "Mawkyrwat", "DISTRICT": "West Khasi Hills", "CATEGORY": "Community Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.457695003000083, 25.372419248000085 ] } }
+,
+{ "type": "Feature", "id": 64, "properties": { "OBJECTID_1": 65, "OBJECTID": 681, "NAME": "Kherapara Primary Health Centre", "LOCATION": "Kherapara", "CONSTITUEN": "Gambegre", "DISTRICT": "West Garo Hills", "CATEGORY": "Primary Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.26028008600008, 25.362893858000064 ] } }
+,
+{ "type": "Feature", "id": 65, "properties": { "OBJECTID_1": 66, "OBJECTID": 805, "NAME": "Umdohlun Sub Centre", "LOCATION": "Umdohlun", "CONSTITUEN": "Mawkyrwat", "DISTRICT": "West Khasi Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.276935546000061, 25.378833953000083 ] } }
+,
+{ "type": "Feature", "id": 66, "properties": { "OBJECTID_1": 67, "OBJECTID": 582, "NAME": "Mawrah Health Sub Centre", "LOCATION": "Mawrah", "CONSTITUEN": "Sohra", "DISTRICT": "East Khasi Hills", "CATEGORY": "Health Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.787118878000058, 25.387466139000082 ] } }
+,
+{ "type": "Feature", "id": 67, "properties": { "OBJECTID_1": 68, "OBJECTID": 795, "NAME": "Nongrynniang Sub Centre", "LOCATION": "Nongrynniang", "CONSTITUEN": "Ranikor", "DISTRICT": "West Khasi Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.202176437000048, 25.390212469000062 ] } }
+,
+{ "type": "Feature", "id": 68, "properties": { "OBJECTID_1": 69, "OBJECTID": 622, "NAME": "Wapung Primary Health Centre", "LOCATION": "Wapung", "CONSTITUEN": "Khliehriat", "DISTRICT": "Jaintia Hills", "CATEGORY": "Primary Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 92.308246745000076, 25.399912717000063 ] } }
+,
+{ "type": "Feature", "id": 69, "properties": { "OBJECTID_1": 70, "OBJECTID": 583, "NAME": "Mawbeh Health Sub Centre", "LOCATION": "Mawbeh", "CONSTITUEN": "Mawphlang", "DISTRICT": "East Khasi Hills", "CATEGORY": "Health Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.748618939000039, 25.398052724000081 ] } }
+,
+{ "type": "Feature", "id": 70, "properties": { "OBJECTID_1": 71, "OBJECTID": 557, "NAME": "Thainthynroh Health Sub Centre", "LOCATION": "Thainthynroh", "CONSTITUEN": "Mawphlang", "DISTRICT": "East Khasi Hills", "CATEGORY": "Health Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.70994685800008, 25.398077785000055 ] } }
+,
+{ "type": "Feature", "id": 71, "properties": { "OBJECTID_1": 72, "OBJECTID": 584, "NAME": "Umdiengpoh Health Sub Centre", "LOCATION": "Umdiengpoh", "CONSTITUEN": "Sohra", "DISTRICT": "East Khasi Hills", "CATEGORY": "Health Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.776708158000076, 25.402826735000076 ] } }
+,
+{ "type": "Feature", "id": 72, "properties": { "OBJECTID_1": 73, "OBJECTID": 611, "NAME": "Mawlyng-ngot Health Sub Centre", "LOCATION": "Mawlyng-ngot", "CONSTITUEN": "Mawkynrew", "DISTRICT": "East Khasi Hills", "CATEGORY": "Health Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.951043797000068, 25.405276416000049 ] } }
+,
+{ "type": "Feature", "id": 73, "properties": { "OBJECTID_1": 74, "OBJECTID": 804, "NAME": "Rangblang Sub Centre", "LOCATION": "Rangblang", "CONSTITUEN": "Mawkyrwat", "DISTRICT": "West Khasi Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.344126297000059, 25.404340124000043 ] } }
+,
+{ "type": "Feature", "id": 74, "properties": { "OBJECTID_1": 75, "OBJECTID": 608, "NAME": "Mawpyrshong Health Sub Centre", "LOCATION": "Mawpyrshong", "CONSTITUEN": "Mawphlang", "DISTRICT": "East Khasi Hills", "CATEGORY": "Health Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.734197416000029, 25.408859301000064 ] } }
+,
+{ "type": "Feature", "id": 75, "properties": { "OBJECTID_1": 76, "OBJECTID": 800, "NAME": "Mawthapdah Primary Health Centre", "LOCATION": "Mawthapdah", "CONSTITUEN": "Mawkyrwat", "DISTRICT": "West Khasi Hills", "CATEGORY": "Primary Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.405711245000077, 25.40738076000008 ] } }
+,
+{ "type": "Feature", "id": 76, "properties": { "OBJECTID_1": 77, "OBJECTID": 802, "NAME": "Umjarain Sub Centre", "LOCATION": "Umjarain", "CONSTITUEN": "Mawkyrwat", "DISTRICT": "West Khasi Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.545586415000059, 25.409393587000068 ] } }
+,
+{ "type": "Feature", "id": 77, "properties": { "OBJECTID_1": 78, "OBJECTID": 529, "NAME": "Jatah Primary Health Centre", "LOCATION": "Jatah", "CONSTITUEN": "Mawkynrew", "DISTRICT": "East Khasi Hills", "CATEGORY": "Primary Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 92.052342807000059, 25.414765663000082 ] } }
+,
+{ "type": "Feature", "id": 78, "properties": { "OBJECTID_1": 79, "OBJECTID": 568, "NAME": "Tyrsad Health Sub Centre", "LOCATION": "Tyrsad", "CONSTITUEN": "Mawphlang", "DISTRICT": "East Khasi Hills", "CATEGORY": "Health Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.67104517100006, 25.412122261000036 ] } }
+,
+{ "type": "Feature", "id": 79, "properties": { "OBJECTID_1": 80, "OBJECTID": 578, "NAME": "Swer Primary Health Centre", "LOCATION": "Swer", "CONSTITUEN": "Sohra", "DISTRICT": "East Khasi Hills", "CATEGORY": "Primary Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.814536145000034, 25.41923478800004 ] } }
+,
+{ "type": "Feature", "id": 80, "properties": { "OBJECTID_1": 81, "OBJECTID": 563, "NAME": "Lempluh Health Sub Centre", "LOCATION": "Lempluh", "CONSTITUEN": "Mawphlang", "DISTRICT": "East Khasi Hills", "CATEGORY": "Health Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.607154114000082, 25.418260603000078 ] } }
+,
+{ "type": "Feature", "id": 81, "properties": { "OBJECTID_1": 82, "OBJECTID": 536, "NAME": "Laitkynsew   Primary Health Centre", "LOCATION": "Laitkynsew", "CONSTITUEN": "Sohra", "DISTRICT": "East Khasi Hills", "CATEGORY": "Primary Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.859191462000069, 25.423522172000048 ] } }
+,
+{ "type": "Feature", "id": 82, "properties": { "OBJECTID_1": 83, "OBJECTID": 767, "NAME": "Byrki Sub Centre", "LOCATION": "Byrki", "CONSTITUEN": "Nongstoin", "DISTRICT": "West Khasi Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.27705252800007, 25.423013093000066 ] } }
+,
+{ "type": "Feature", "id": 83, "properties": { "OBJECTID_1": 84, "OBJECTID": 803, "NAME": "Shngi mawlein Sub Centre", "LOCATION": "Shngi Mawlein", "CONSTITUEN": "Mawkyrwat", "DISTRICT": "West Khasi Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.504668805000051, 25.427301121000085 ] } }
+,
+{ "type": "Feature", "id": 84, "properties": { "OBJECTID_1": 85, "OBJECTID": 528, "NAME": "Mawkynrew Primary Health Centre", "LOCATION": "Mawkynrew", "CONSTITUEN": "Mawkynrew", "DISTRICT": "East Khasi Hills", "CATEGORY": "Primary Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.997094919000062, 25.435482943000068 ] } }
+,
+{ "type": "Feature", "id": 85, "properties": { "OBJECTID_1": 86, "OBJECTID": 635, "NAME": "KJP Hospital", "LOCATION": "Mission Compound", "CONSTITUEN": "Jowai", "DISTRICT": "Jaintia Hills", "CATEGORY": "Others" }, "geometry": { "type": "Point", "coordinates": [ 92.196049197000036, 25.439972002000047 ] } }
+,
+{ "type": "Feature", "id": 86, "properties": { "OBJECTID_1": 87, "OBJECTID": 636, "NAME": "Civil Hospital", "LOCATION": "Iawmusiang", "CONSTITUEN": "Jowai", "DISTRICT": "Jaintia Hills", "CATEGORY": "Hospital" }, "geometry": { "type": "Point", "coordinates": [ 92.197684673000083, 25.441272301000083 ] } }
+,
+{ "type": "Feature", "id": 87, "properties": { "OBJECTID_1": 88, "OBJECTID": 780, "NAME": "Mawieit Primary Health Centre", "LOCATION": "Mawieit", "CONSTITUEN": "Mawshynrut", "DISTRICT": "West Khasi Hills", "CATEGORY": "Primary Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.069889990000036, 25.431550850000065 ] } }
+,
+{ "type": "Feature", "id": 88, "properties": { "OBJECTID_1": 89, "OBJECTID": 577, "NAME": "Nongspung Primary Health Centre", "LOCATION": "Nongspung", "CONSTITUEN": "Mawphlang", "DISTRICT": "East Khasi Hills", "CATEGORY": "Primary Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.603620765000073, 25.444147384000075 ] } }
+,
+{ "type": "Feature", "id": 89, "properties": { "OBJECTID_1": 90, "OBJECTID": 735, "NAME": "Daronggre Sub Centre", "LOCATION": "Daronggre", "CONSTITUEN": "Gambegre", "DISTRICT": "West Garo Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.086712300000045, 25.422160963000067 ] } }
+,
+{ "type": "Feature", "id": 90, "properties": { "OBJECTID_1": 91, "OBJECTID": 527, "NAME": "Laitlyngkot Primary Health Centre", "LOCATION": "Laitlyngkot", "CONSTITUEN": "Sohra", "DISTRICT": "East Khasi Hills", "CATEGORY": "Primary Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.834863763000044, 25.452038990000062 ] } }
+,
+{ "type": "Feature", "id": 91, "properties": { "OBJECTID_1": 92, "OBJECTID": 524, "NAME": "Mawphlang Primary Health Centre", "LOCATION": "Mawphlang", "CONSTITUEN": "Mawphlang", "DISTRICT": "East Khasi Hills", "CATEGORY": "Primary Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.761119370000074, 25.454441036000048 ] } }
+,
+{ "type": "Feature", "id": 92, "properties": { "OBJECTID_1": 93, "OBJECTID": 786, "NAME": "Mawrynniaw Sub Centre", "LOCATION": "Mawrynniaw", "CONSTITUEN": "Mawshynrut", "DISTRICT": "West Khasi Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.039625630000046, 25.447525491000079 ] } }
+,
+{ "type": "Feature", "id": 93, "properties": { "OBJECTID_1": 94, "OBJECTID": 766, "NAME": "Nongkynjang Sub Centre", "LOCATION": "Nongkynjang", "CONSTITUEN": "Nongstoin", "DISTRICT": "West Khasi Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.328989886000045, 25.454903123000065 ] } }
+,
+{ "type": "Feature", "id": 94, "properties": { "OBJECTID_1": 95, "OBJECTID": 491, "NAME": "Rongbing Boldak Health Centre", "LOCATION": "Rongbing Boldak", "CONSTITUEN": "Williamnagar", "DISTRICT": "East Garo Hills", "CATEGORY": "Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.64922196200007, 25.446355447000087 ] } }
+,
+{ "type": "Feature", "id": 95, "properties": { "OBJECTID_1": 96, "OBJECTID": 609, "NAME": "Pingwait Health Sub Centre", "LOCATION": "Pingwait", "CONSTITUEN": "Mawkynrew", "DISTRICT": "East Khasi Hills", "CATEGORY": "Health Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 92.015201345000037, 25.464131581000061 ] } }
+,
+{ "type": "Feature", "id": 96, "properties": { "OBJECTID_1": 97, "OBJECTID": 562, "NAME": "Laitnongkseh Health Sub Centre", "LOCATION": "Laitnongkseh", "CONSTITUEN": "Sohiong", "DISTRICT": "East Khasi Hills", "CATEGORY": "Health Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.696746273000031, 25.468185435000066 ] } }
+,
+{ "type": "Feature", "id": 97, "properties": { "OBJECTID_1": 98, "OBJECTID": 753, "NAME": "Pariong Primary Health Centre", "LOCATION": "Pariong", "CONSTITUEN": "Mawthadraishan", "DISTRICT": "West Khasi Hills", "CATEGORY": "Primary Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.485472961000028, 25.470838423000089 ] } }
+,
+{ "type": "Feature", "id": 98, "properties": { "OBJECTID_1": 99, "OBJECTID": 764, "NAME": "Marngor Sub Centre", "LOCATION": "Marngor", "CONSTITUEN": "Nongstoin", "DISTRICT": "West Khasi Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.431946633000052, 25.47187269300008 ] } }
+,
+{ "type": "Feature", "id": 99, "properties": { "OBJECTID_1": 100, "OBJECTID": 610, "NAME": "kharang Health Sub Centre", "LOCATION": "Kharang", "CONSTITUEN": "Mawkynrew", "DISTRICT": "East Khasi Hills", "CATEGORY": "Health Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 92.016574623000054, 25.477864852000039 ] } }
+,
+{ "type": "Feature", "id": 100, "properties": { "OBJECTID_1": 101, "OBJECTID": 626, "NAME": "Shangpung Primary Health Centre", "LOCATION": "Shangpung", "CONSTITUEN": "Raliang", "DISTRICT": "Jaintia Hills", "CATEGORY": "Primary Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 92.340861691000043, 25.480151394000075 ] } }
+,
+{ "type": "Feature", "id": 101, "properties": { "OBJECTID_1": 102, "OBJECTID": 556, "NAME": "Mawngap Health Sub Centre", "LOCATION": "Mawngap", "CONSTITUEN": "Mawphlang", "DISTRICT": "East Khasi Hills", "CATEGORY": "Health Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.783383627000035, 25.477045819000068 ] } }
+,
+{ "type": "Feature", "id": 102, "properties": { "OBJECTID_1": 103, "OBJECTID": 783, "NAME": "Shyrkon Sub Centre", "LOCATION": "Shyrkon", "CONSTITUEN": "Mawshynrut", "DISTRICT": "West Khasi Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.025782462000052, 25.470276218000038 ] } }
+,
+{ "type": "Feature", "id": 103, "properties": { "OBJECTID_1": 104, "OBJECTID": 606, "NAME": "Thangsning Health Sub Centre", "LOCATION": "Thangsning", "CONSTITUEN": "Mawkynrew", "DISTRICT": "East Khasi Hills", "CATEGORY": "Health Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.919012870000074, 25.48420684000007 ] } }
+,
+{ "type": "Feature", "id": 104, "properties": { "OBJECTID_1": 105, "OBJECTID": 631, "NAME": "Khliehtyrshi Primary Health Centre", "LOCATION": "Khliehtyrshi", "CONSTITUEN": "Jowai", "DISTRICT": "Jaintia Hills", "CATEGORY": "Primary Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 92.186469966000061, 25.486477457000035 ] } }
+,
+{ "type": "Feature", "id": 105, "properties": { "OBJECTID_1": 106, "OBJECTID": 561, "NAME": "Wahlang Health Sub Centre", "LOCATION": "Wahlang", "CONSTITUEN": "Sohiong", "DISTRICT": "East Khasi Hills", "CATEGORY": "Health Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.649837254000033, 25.482744322000087 ] } }
+,
+{ "type": "Feature", "id": 106, "properties": { "OBJECTID_1": 107, "OBJECTID": 555, "NAME": "Mawpynthih Health Sub Centre", "LOCATION": "Mawpynthih", "CONSTITUEN": "Nongkrem", "DISTRICT": "East Khasi Hills", "CATEGORY": "Health Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.867607645000078, 25.487144888000046 ] } }
+,
+{ "type": "Feature", "id": 107, "properties": { "OBJECTID_1": 108, "OBJECTID": 492, "NAME": "Nengkra Awe Health Centre", "LOCATION": "Nengkra Awe", "CONSTITUEN": "Williamnagar", "DISTRICT": "East Garo Hills", "CATEGORY": "Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.694457629000055, 25.483097551000071 ] } }
+,
+{ "type": "Feature", "id": 108, "properties": { "OBJECTID_1": 109, "OBJECTID": 607, "NAME": "Thynroit Health Sub Centre", "LOCATION": "Thynroit", "CONSTITUEN": "Mawkynrew", "DISTRICT": "East Khasi Hills", "CATEGORY": "Health Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.972579898000049, 25.499573288000079 ] } }
+,
+{ "type": "Feature", "id": 109, "properties": { "OBJECTID_1": 110, "OBJECTID": 763, "NAME": "Laitkseh Sub Centre", "LOCATION": "Laitkseh", "CONSTITUEN": "Nongstoin", "DISTRICT": "West Khasi Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.426791067000067, 25.495421321000038 ] } }
+,
+{ "type": "Feature", "id": 110, "properties": { "OBJECTID_1": 111, "OBJECTID": 558, "NAME": "Lad-Mawreng Health Sub Centre", "LOCATION": "Lad-Mawreng", "CONSTITUEN": "Mawphlang", "DISTRICT": "East Khasi Hills", "CATEGORY": "Health Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.792281815000081, 25.499630911000054 ] } }
+,
+{ "type": "Feature", "id": 111, "properties": { "OBJECTID_1": 112, "OBJECTID": 594, "NAME": "Nongkrem Health Sub Centre", "LOCATION": "Nongkrem", "CONSTITUEN": "Nongkrem", "DISTRICT": "East Khasi Hills", "CATEGORY": "Health Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.88730883900007, 25.500896935000071 ] } }
+,
+{ "type": "Feature", "id": 112, "properties": { "OBJECTID_1": 113, "OBJECTID": 525, "NAME": "Sohiong Primary Health Centre", "LOCATION": "Sohiong", "CONSTITUEN": "Sohiong", "DISTRICT": "East Khasi Hills", "CATEGORY": "Primary Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.720628953000073, 25.501438489000066 ] } }
+,
+{ "type": "Feature", "id": 113, "properties": { "OBJECTID_1": 114, "OBJECTID": 624, "NAME": "Iooksi Primary Health Centre", "LOCATION": "Iooksi", "CONSTITUEN": "Mowkaiaw", "DISTRICT": "Jaintia Hills", "CATEGORY": "Primary Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 92.564282520000063, 25.50854204400008 ] } }
+,
+{ "type": "Feature", "id": 114, "properties": { "OBJECTID_1": 115, "OBJECTID": 547, "NAME": "Smit  St. Dispensary", "LOCATION": "Smit", "CONSTITUEN": "Nongkrem", "DISTRICT": "East Khasi Hills", "CATEGORY": "Dispensary" }, "geometry": { "type": "Point", "coordinates": [ 91.910670225000047, 25.506371525000077 ] } }
+,
+{ "type": "Feature", "id": 115, "properties": { "OBJECTID_1": 116, "OBJECTID": 733, "NAME": "Okkapara Sub Centre", "LOCATION": "Okkapara", "CONSTITUEN": "Rangsakona", "DISTRICT": "West Garo Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.147220015000073, 25.48471806200007 ] } }
+,
+{ "type": "Feature", "id": 116, "properties": { "OBJECTID_1": 117, "OBJECTID": 627, "NAME": "Nongbah Primary Health Centre", "LOCATION": "Nongbah", "CONSTITUEN": "Raliang", "DISTRICT": "Jaintia Hills", "CATEGORY": "Primary Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 92.266674479000073, 25.514622147000068 ] } }
+,
+{ "type": "Feature", "id": 117, "properties": { "OBJECTID_1": 118, "OBJECTID": 493, "NAME": "Dawa Nengkatokgre Health Centre", "LOCATION": "Dawa Nengkatokgre", "CONSTITUEN": "Williamnagar", "DISTRICT": "East Garo Hills", "CATEGORY": "Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.66974657600008, 25.498477603000083 ] } }
+,
+{ "type": "Feature", "id": 118, "properties": { "OBJECTID_1": 119, "OBJECTID": 618, "NAME": "Ummulong Community Health Centre", "LOCATION": "Ummulong", "CONSTITUEN": "Nartiang", "DISTRICT": "Jaintia Hills", "CATEGORY": "Community Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 92.161101173000077, 25.514862247000053 ] } }
+,
+{ "type": "Feature", "id": 119, "properties": { "OBJECTID_1": 120, "OBJECTID": 615, "NAME": "Laskien  Community Health Centre", "LOCATION": "Laskien", "CONSTITUEN": "Mowkaiaw", "DISTRICT": "Jaintia Hills", "CATEGORY": "Community Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 92.40917162900007, 25.517001815000071 ] } }
+,
+{ "type": "Feature", "id": 120, "properties": { "OBJECTID_1": 121, "OBJECTID": 762, "NAME": "Nongstoin Community Health Centre", "LOCATION": "Nongstoin", "CONSTITUEN": "Nongstoin", "DISTRICT": "West Khasi Hills", "CATEGORY": "Community Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.279420225000081, 25.508527370000081 ] } }
+,
+{ "type": "Feature", "id": 121, "properties": { "OBJECTID_1": 122, "OBJECTID": 589, "NAME": "Umphyrnai Health Sub Centre", "LOCATION": "Umphyrnai", "CONSTITUEN": "Nongkrem", "DISTRICT": "East Khasi Hills", "CATEGORY": "Health Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.908838303000039, 25.522677317000046 ] } }
+,
+{ "type": "Feature", "id": 122, "properties": { "OBJECTID_1": 123, "OBJECTID": 760, "NAME": "Sarong Sub Centre", "LOCATION": "Sarong", "CONSTITUEN": "Mawthadraishan", "DISTRICT": "West Khasi Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.557188063000069, 25.522101373000055 ] } }
+,
+{ "type": "Feature", "id": 123, "properties": { "OBJECTID_1": 124, "OBJECTID": 779, "NAME": "Shallang Primary Health Centre", "LOCATION": "Shallang", "CONSTITUEN": "Mawshynrut", "DISTRICT": "West Khasi Hills", "CATEGORY": "Primary Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.881480681000028, 25.514132053000083 ] } }
+,
+{ "type": "Feature", "id": 124, "properties": { "OBJECTID_1": 125, "OBJECTID": 494, "NAME": "Rongrenggre  Health Centre", "LOCATION": "Rongrenggre", "CONSTITUEN": "Williamnagar", "DISTRICT": "East Garo Hills", "CATEGORY": "Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.622219161000032, 25.511821639000061 ] } }
+,
+{ "type": "Feature", "id": 125, "properties": { "OBJECTID_1": 126, "OBJECTID": 756, "NAME": "Kynshi Primary Health Centre", "LOCATION": "Kynshi", "CONSTITUEN": "Mawthadraishan", "DISTRICT": "West Khasi Hills", "CATEGORY": "Primary Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.537092929000039, 25.526422201000059 ] } }
+,
+{ "type": "Feature", "id": 126, "properties": { "OBJECTID_1": 127, "OBJECTID": 751, "NAME": "Kynsew Sub Centre", "LOCATION": "Kynsew", "CONSTITUEN": "Mairang", "DISTRICT": "West Khasi Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.710479608000071, 25.529494476000082 ] } }
+,
+{ "type": "Feature", "id": 127, "properties": { "OBJECTID_1": 128, "OBJECTID": 745, "NAME": "Manai Sub Centre", "LOCATION": "Manai", "CONSTITUEN": "Mairang", "DISTRICT": "West Khasi Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.677652529000056, 25.530635162000067 ] } }
+,
+{ "type": "Feature", "id": 128, "properties": { "OBJECTID_1": 129, "OBJECTID": 593, "NAME": "Sohryngkham Health Sub Centre", "LOCATION": "Sohryngkham", "CONSTITUEN": "Mawryngkneng", "DISTRICT": "East Khasi Hills", "CATEGORY": "Health Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.957302011000081, 25.536512978000076 ] } }
+,
+{ "type": "Feature", "id": 129, "properties": { "OBJECTID_1": 130, "OBJECTID": 755, "NAME": "Markasa Primary Health Centre", "LOCATION": "Markasa", "CONSTITUEN": "Mawthadraishan", "DISTRICT": "West Khasi Hills", "CATEGORY": "Primary Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.439248527000075, 25.532323156000075 ] } }
+,
+{ "type": "Feature", "id": 130, "properties": { "OBJECTID_1": 131, "OBJECTID": 522, "NAME": "Civil Hospital", "LOCATION": "Williamnagar", "CONSTITUEN": "Williamnagar", "DISTRICT": "East Garo Hills", "CATEGORY": "Hospital" }, "geometry": { "type": "Point", "coordinates": [ 90.631325025000081, 25.522155300000065 ] } }
+,
+{ "type": "Feature", "id": 131, "properties": { "OBJECTID_1": 132, "OBJECTID": 708, "NAME": "Dakopgre Sub Centre", "LOCATION": "Dakopgre", "CONSTITUEN": "South Tura", "DISTRICT": "West Garo Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.187125217000073, 25.514716200000066 ] } }
+,
+{ "type": "Feature", "id": 132, "properties": { "OBJECTID_1": 133, "OBJECTID": 523, "NAME": "Pomlum Primary Health Centre", "LOCATION": "Pomlum", "CONSTITUEN": "Mylliem", "DISTRICT": "East Khasi Hills", "CATEGORY": "Primary Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.828542465000055, 25.53755211500004 ] } }
+,
+{ "type": "Feature", "id": 133, "properties": { "OBJECTID_1": 134, "OBJECTID": 670, "NAME": "Tura Police Hospital", "LOCATION": "Tura", "CONSTITUEN": "North Tura", "DISTRICT": "West Garo Hills", "CATEGORY": "Hospital" }, "geometry": { "type": "Point", "coordinates": [ 90.221368143000063, 25.517561259000047 ] } }
+,
+{ "type": "Feature", "id": 134, "properties": { "OBJECTID_1": 135, "OBJECTID": 671, "NAME": "Tura T.B. Hospital", "LOCATION": "Tura", "CONSTITUEN": "North Tura", "DISTRICT": "West Garo Hills", "CATEGORY": "Hospital" }, "geometry": { "type": "Point", "coordinates": [ 90.224810203000061, 25.517996176000054 ] } }
+,
+{ "type": "Feature", "id": 135, "properties": { "OBJECTID_1": 136, "OBJECTID": 673, "NAME": "Tura Christian Hospital", "LOCATION": "Tura", "CONSTITUEN": "North Tura", "DISTRICT": "West Garo Hills", "CATEGORY": "Other" }, "geometry": { "type": "Point", "coordinates": [ 90.228716816000031, 25.518961119000039 ] } }
+,
+{ "type": "Feature", "id": 136, "properties": { "OBJECTID_1": 137, "OBJECTID": 672, "NAME": "Leper Colony Hospital", "LOCATION": "Tura", "CONSTITUEN": "North Tura", "DISTRICT": "West Garo Hills", "CATEGORY": "Hospital" }, "geometry": { "type": "Point", "coordinates": [ 90.225244911000061, 25.519821166000042 ] } }
+,
+{ "type": "Feature", "id": 137, "properties": { "OBJECTID_1": 138, "OBJECTID": 734, "NAME": "Damalgre Sub Centre", "LOCATION": "Damalgre", "CONSTITUEN": "Rangsakona", "DISTRICT": "West Garo Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.143363558000033, 25.518321300000082 ] } }
+,
+{ "type": "Feature", "id": 138, "properties": { "OBJECTID_1": 139, "OBJECTID": 623, "NAME": "Sahsiang Primary Health Centre", "LOCATION": "Sahsiang", "CONSTITUEN": "Mowkaiaw", "DISTRICT": "Jaintia Hills", "CATEGORY": "Primary Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 92.521300711000038, 25.545792860000063 ] } }
+,
+{ "type": "Feature", "id": 139, "properties": { "OBJECTID_1": 140, "OBJECTID": 495, "NAME": "Rongreng Health Centre", "LOCATION": "Rongreng", "CONSTITUEN": "Williamnagar", "DISTRICT": "East Garo Hills", "CATEGORY": "Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.587500761000058, 25.52682423400006 ] } }
+,
+{ "type": "Feature", "id": 140, "properties": { "OBJECTID_1": 141, "OBJECTID": 761, "NAME": "Langtor Sub Centre", "LOCATION": "Langtor", "CONSTITUEN": "Mawthadraishan", "DISTRICT": "West Khasi Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.573529359000077, 25.548401002000048 ] } }
+,
+{ "type": "Feature", "id": 141, "properties": { "OBJECTID_1": 142, "OBJECTID": 554, "NAME": "Kynroh Health Sub Centre", "LOCATION": "Kynroh", "CONSTITUEN": "Sohiong", "DISTRICT": "East Khasi Hills", "CATEGORY": "Health Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.74393434600006, 25.550778342000058 ] } }
+,
+{ "type": "Feature", "id": 142, "properties": { "OBJECTID_1": 143, "OBJECTID": 736, "NAME": "Rongchadenggre Sub Centre", "LOCATION": "Rongchadenggre", "CONSTITUEN": "Rangsakona", "DISTRICT": "West Garo Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.068655953000075, 25.527515897000058 ] } }
+,
+{ "type": "Feature", "id": 143, "properties": { "OBJECTID_1": 144, "OBJECTID": 744, "NAME": "Nongthliew Primary Health Centre", "LOCATION": "Nongthliew", "CONSTITUEN": "Mairang", "DISTRICT": "West Khasi Hills", "CATEGORY": "Primary Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.708668180000075, 25.551574769000069 ] } }
+,
+{ "type": "Feature", "id": 144, "properties": { "OBJECTID_1": 145, "OBJECTID": 719, "NAME": "Tosekgre Sub Centre", "LOCATION": "Tosekgre", "CONSTITUEN": "North Tura", "DISTRICT": "West Garo Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.288507031000051, 25.53612742200005 ] } }
+,
+{ "type": "Feature", "id": 145, "properties": { "OBJECTID_1": 146, "OBJECTID": 560, "NAME": "Lawmei Health Sub Centre", "LOCATION": "Lawmei", "CONSTITUEN": "Sohiong", "DISTRICT": "East Khasi Hills", "CATEGORY": "Health Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.784746551000069, 25.556462735000082 ] } }
+,
+{ "type": "Feature", "id": 146, "properties": { "OBJECTID_1": 147, "OBJECTID": 765, "NAME": "Mawkadiang Sub Centre", "LOCATION": "Mawkadiang", "CONSTITUEN": "Nongstoin", "DISTRICT": "West Khasi Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.222979305000081, 25.551954949000049 ] } }
+,
+{ "type": "Feature", "id": 147, "properties": { "OBJECTID_1": 148, "OBJECTID": 559, "NAME": "Krang Health Sub Centre", "LOCATION": "Krang", "CONSTITUEN": "Sohiong", "DISTRICT": "East Khasi Hills", "CATEGORY": "Health Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.761837440000079, 25.557583370000089 ] } }
+,
+{ "type": "Feature", "id": 148, "properties": { "OBJECTID_1": 149, "OBJECTID": 549, "NAME": "Laban St. Dispensary", "LOCATION": "Laban", "CONSTITUEN": "South Shillong", "DISTRICT": "East Khasi Hills", "CATEGORY": "Dispensary" }, "geometry": { "type": "Point", "coordinates": [ 91.874772628000073, 25.558871183000065 ] } }
+,
+{ "type": "Feature", "id": 149, "properties": { "OBJECTID_1": 150, "OBJECTID": 675, "NAME": "Rangsakona Primary Health Centre", "LOCATION": "Rangsakona", "CONSTITUEN": "Rangsakona", "DISTRICT": "West Garo Hills", "CATEGORY": "Primary Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.039672084000074, 25.535491820000061 ] } }
+,
+{ "type": "Feature", "id": 150, "properties": { "OBJECTID_1": 151, "OBJECTID": 518, "NAME": "Samanda Chinemgre Health Centre", "LOCATION": "Samanda Chinemgre", "CONSTITUEN": "Williamnagar", "DISTRICT": "East Garo Hills", "CATEGORY": "Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.502995249000037, 25.544618570000068 ] } }
+,
+{ "type": "Feature", "id": 151, "properties": { "OBJECTID_1": 152, "OBJECTID": 729, "NAME": "Rangsa Abagre Sub Centre", "LOCATION": "Rangsa Abagre", "CONSTITUEN": "Rangsakona", "DISTRICT": "West Garo Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.026040626000054, 25.537716782000075 ] } }
+,
+{ "type": "Feature", "id": 152, "properties": { "OBJECTID_1": 153, "OBJECTID": 530, "NAME": "Mawryngkneng Primary Health Centre", "LOCATION": "Mawryngkneng", "CONSTITUEN": "Mawryngkneng", "DISTRICT": "East Khasi Hills", "CATEGORY": "Primary Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 92.086029876000055, 25.567675285000064 ] } }
+,
+{ "type": "Feature", "id": 153, "properties": { "OBJECTID_1": 154, "OBJECTID": 537, "NAME": "Civil Hospital Shillong", "LOCATION": "Civil Hospital", "CONSTITUEN": "East Shillong", "DISTRICT": "East Khasi Hills", "CATEGORY": "Hospital" }, "geometry": { "type": "Point", "coordinates": [ 91.881619775000047, 25.567037522000078 ] } }
+,
+{ "type": "Feature", "id": 154, "properties": { "OBJECTID_1": 155, "OBJECTID": 543, "NAME": "Woodland Nursing Home", "LOCATION": "Dhanketi", "CONSTITUEN": "East Shillong", "DISTRICT": "East Khasi Hills", "CATEGORY": "Other" }, "geometry": { "type": "Point", "coordinates": [ 91.889392527000041, 25.567471216000058 ] } }
+,
+{ "type": "Feature", "id": 155, "properties": { "OBJECTID_1": 156, "OBJECTID": 544, "NAME": "Bethany Nursing Home", "LOCATION": "Nongrimhills", "CONSTITUEN": "Nongthymmai", "DISTRICT": "East Khasi Hills", "CATEGORY": "Other" }, "geometry": { "type": "Point", "coordinates": [ 91.905143691000035, 25.567714385000045 ] } }
+,
+{ "type": "Feature", "id": 156, "properties": { "OBJECTID_1": 157, "OBJECTID": 546, "NAME": "Rynjah St. Dispensary", "LOCATION": "Rynjah", "CONSTITUEN": "Nongthymmai", "DISTRICT": "East Khasi Hills", "CATEGORY": "Dispensary" }, "geometry": { "type": "Point", "coordinates": [ 91.914654681000059, 25.570890587000065 ] } }
+,
+{ "type": "Feature", "id": 157, "properties": { "OBJECTID_1": 158, "OBJECTID": 628, "NAME": "Nartiang Primary Health Centre", "LOCATION": "Nartiang", "CONSTITUEN": "Nartiang", "DISTRICT": "Jaintia Hills", "CATEGORY": "Primary Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 92.230369433000078, 25.573333251000065 ] } }
+,
+{ "type": "Feature", "id": 158, "properties": { "OBJECTID_1": 159, "OBJECTID": 496, "NAME": "Dobu Health Centre", "LOCATION": "Dobu", "CONSTITUEN": "Songsak", "DISTRICT": "East Garo Hills", "CATEGORY": "Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.712421908000067, 25.557718818000069 ] } }
+,
+{ "type": "Feature", "id": 159, "properties": { "OBJECTID_1": 160, "OBJECTID": 539, "NAME": "Military Hospital", "LOCATION": "Military Hospital", "CONSTITUEN": "South Shillong", "DISTRICT": "East Khasi Hills", "CATEGORY": "Hospital" }, "geometry": { "type": "Point", "coordinates": [ 91.872833784000079, 25.571378937000077 ] } }
+,
+{ "type": "Feature", "id": 160, "properties": { "OBJECTID_1": 161, "OBJECTID": 550, "NAME": "Ram Rishna Mission Dispensary", "LOCATION": "Lumsohra", "CONSTITUEN": "East Shillong", "DISTRICT": "East Khasi Hills", "CATEGORY": "Dispensary" }, "geometry": { "type": "Point", "coordinates": [ 91.900468645000046, 25.571946148000052 ] } }
+,
+{ "type": "Feature", "id": 161, "properties": { "OBJECTID_1": 162, "OBJECTID": 781, "NAME": "Umshynrut Sub Centre", "LOCATION": "Umshynrut", "CONSTITUEN": "Mawshynrut", "DISTRICT": "West Khasi Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.107161835000056, 25.565669961000083 ] } }
+,
+{ "type": "Feature", "id": 162, "properties": { "OBJECTID_1": 163, "OBJECTID": 541, "NAME": "Nazareth Hospital", "LOCATION": "Nongrimmaw", "CONSTITUEN": "East Shillong", "DISTRICT": "East Khasi Hills", "CATEGORY": "Other" }, "geometry": { "type": "Point", "coordinates": [ 91.897681892000037, 25.574147359000051 ] } }
+,
+{ "type": "Feature", "id": 163, "properties": { "OBJECTID_1": 164, "OBJECTID": 576, "NAME": "Nongkynrih Health Sub Centre", "LOCATION": "Nongkynrih", "CONSTITUEN": "East Shillong", "DISTRICT": "East Khasi Hills", "CATEGORY": "Health Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.89728206500007, 25.575955036000039 ] } }
+,
+{ "type": "Feature", "id": 164, "properties": { "OBJECTID_1": 165, "OBJECTID": 538, "NAME": "R.P.Chest Hospital Shillong", "LOCATION": "R.P.Chest Hospital", "CONSTITUEN": "West Shillong", "DISTRICT": "East Khasi Hills", "CATEGORY": "Hospital" }, "geometry": { "type": "Point", "coordinates": [ 91.867264122000051, 25.576598968000042 ] } }
+,
+{ "type": "Feature", "id": 165, "properties": { "OBJECTID_1": 166, "OBJECTID": 713, "NAME": "Rombagre Sub Centre", "LOCATION": "Rombagre", "CONSTITUEN": "Dadenggre", "DISTRICT": "West Garo Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.380427876000056, 25.560488470000053 ] } }
+,
+{ "type": "Feature", "id": 166, "properties": { "OBJECTID_1": 167, "OBJECTID": 591, "NAME": "Mawpdang Health Sub Centre", "LOCATION": "Mawpdang", "CONSTITUEN": "Mawryngkneng", "DISTRICT": "East Khasi Hills", "CATEGORY": "Health Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.997247856000058, 25.580656852000061 ] } }
+,
+{ "type": "Feature", "id": 167, "properties": { "OBJECTID_1": 168, "OBJECTID": 625, "NAME": "Mynso Primary Health Centre", "LOCATION": "Mynso", "CONSTITUEN": "Nartiang", "DISTRICT": "Jaintia Hills", "CATEGORY": "Primary Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 92.176486406000038, 25.582942140000057 ] } }
+,
+{ "type": "Feature", "id": 168, "properties": { "OBJECTID_1": 169, "OBJECTID": 540, "NAME": "k.J.P Synod Hospital", "LOCATION": "Jaiaw Pdeng", "CONSTITUEN": "North Shillong", "DISTRICT": "East Khasi Hills", "CATEGORY": "Other" }, "geometry": { "type": "Point", "coordinates": [ 91.876236001000052, 25.58418716400007 ] } }
+,
+{ "type": "Feature", "id": 169, "properties": { "OBJECTID_1": 170, "OBJECTID": 595, "NAME": "Nongmynsong Health Sub Centre", "LOCATION": "Nongmynsong", "CONSTITUEN": "Pynthorumkhrah", "DISTRICT": "East Khasi Hills", "CATEGORY": "Health Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.905620587000044, 25.584645644000091 ] } }
+,
+{ "type": "Feature", "id": 170, "properties": { "OBJECTID_1": 171, "OBJECTID": 517, "NAME": "Rongsak Bazar Health Centre", "LOCATION": "Rongsak Bazar", "CONSTITUEN": "Williamnagar", "DISTRICT": "East Garo Hills", "CATEGORY": "Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.443124192000028, 25.568274754000072 ] } }
+,
+{ "type": "Feature", "id": 171, "properties": { "OBJECTID_1": 172, "OBJECTID": 612, "NAME": "Ganesh Das Hospital", "LOCATION": "Pasteur Institute", "CONSTITUEN": "North Shillong", "DISTRICT": "East Khasi Hills", "CATEGORY": "Hospital" }, "geometry": { "type": "Point", "coordinates": [ 91.886776118000057, 25.586389527000051 ] } }
+,
+{ "type": "Feature", "id": 172, "properties": { "OBJECTID_1": 173, "OBJECTID": 754, "NAME": "Myriaw Primary Health Centre", "LOCATION": "Myriaw", "CONSTITUEN": "Mawthadraishan", "DISTRICT": "West Khasi Hills", "CATEGORY": "Primary Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.50711528000005, 25.584318719000066 ] } }
+,
+{ "type": "Feature", "id": 173, "properties": { "OBJECTID_1": 174, "OBJECTID": 579, "NAME": "Diengpasoh Primary Health Centre", "LOCATION": "Diengpasoh", "CONSTITUEN": "Mawryngkneng", "DISTRICT": "East Khasi Hills", "CATEGORY": "Primary Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 92.041775032000032, 25.58903917400005 ] } }
+,
+{ "type": "Feature", "id": 174, "properties": { "OBJECTID_1": 175, "OBJECTID": 750, "NAME": "Pyndendombah Sub Centre", "LOCATION": "Pyndendombah", "CONSTITUEN": "Mairang", "DISTRICT": "West Khasi Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.700500532000035, 25.588931043000059 ] } }
+,
+{ "type": "Feature", "id": 175, "properties": { "OBJECTID_1": 176, "OBJECTID": 707, "NAME": "Mukdangra Sub Centre", "LOCATION": "Mukdangra", "CONSTITUEN": "Rangsakona", "DISTRICT": "West Garo Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.085733275000052, 25.566006162000065 ] } }
+,
+{ "type": "Feature", "id": 176, "properties": { "OBJECTID_1": 177, "OBJECTID": 741, "NAME": "Mairang Community Health Centre", "LOCATION": "Mairang", "CONSTITUEN": "Mairang", "DISTRICT": "West Khasi Hills", "CATEGORY": "Community Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.645480693000081, 25.588936080000053 ] } }
+,
+{ "type": "Feature", "id": 177, "properties": { "OBJECTID_1": 178, "OBJECTID": 737, "NAME": "Asimgre Sub Centre", "LOCATION": "Asimgre", "CONSTITUEN": "Rangsakona", "DISTRICT": "West Garo Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.099141152000072, 25.566899858000056 ] } }
+,
+{ "type": "Feature", "id": 178, "properties": { "OBJECTID_1": 179, "OBJECTID": 497, "NAME": "Rongap Konchigre Health Centre", "LOCATION": "Rongap Konchigre", "CONSTITUEN": "Songsak", "DISTRICT": "East Garo Hills", "CATEGORY": "Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.590137098000071, 25.577265523000051 ] } }
+,
+{ "type": "Feature", "id": 179, "properties": { "OBJECTID_1": 180, "OBJECTID": 776, "NAME": "Mawlangsu Sub Centre", "LOCATION": "Mawlangsu", "CONSTITUEN": "Rambrai-Jyrngam", "DISTRICT": "West Khasi Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.396211523000034, 25.58857697600007 ] } }
+,
+{ "type": "Feature", "id": 180, "properties": { "OBJECTID_1": 181, "OBJECTID": 714, "NAME": "Waribokgre Sub Centre", "LOCATION": "Waribokgre", "CONSTITUEN": "Dadenggre", "DISTRICT": "West Garo Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.329994465000027, 25.577086324000049 ] } }
+,
+{ "type": "Feature", "id": 181, "properties": { "OBJECTID_1": 182, "OBJECTID": 590, "NAME": "Tynring Health Sub Centre", "LOCATION": "Tynring", "CONSTITUEN": "Mawryngkneng", "DISTRICT": "East Khasi Hills", "CATEGORY": "Health Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.98238903400005, 25.598140240000077 ] } }
+,
+{ "type": "Feature", "id": 182, "properties": { "OBJECTID_1": 183, "OBJECTID": 545, "NAME": "Mawlai St. Dispensary", "LOCATION": "Mawlai Syllalriah", "CONSTITUEN": "Mawlai", "DISTRICT": "East Khasi Hills", "CATEGORY": "Dispensary" }, "geometry": { "type": "Point", "coordinates": [ 91.875709174000065, 25.598522836000086 ] } }
+,
+{ "type": "Feature", "id": 183, "properties": { "OBJECTID_1": 184, "OBJECTID": 542, "NAME": "Sanker Nursing Home", "LOCATION": "Mawlai Mawroh", "CONSTITUEN": "Mawlai", "DISTRICT": "East Khasi Hills", "CATEGORY": "Other" }, "geometry": { "type": "Point", "coordinates": [ 91.899780153000052, 25.59922793800007 ] } }
+,
+{ "type": "Feature", "id": 184, "properties": { "OBJECTID_1": 185, "OBJECTID": 629, "NAME": "Barato Primary Health Centre", "LOCATION": "Barato", "CONSTITUEN": "Mowkaiaw", "DISTRICT": "Jaintia Hills", "CATEGORY": "Primary Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 92.447325269000032, 25.602523081000072 ] } }
+,
+{ "type": "Feature", "id": 185, "properties": { "OBJECTID_1": 186, "OBJECTID": 592, "NAME": "Diengpasoh  Health Sub Centre", "LOCATION": "Diengpasoh", "CONSTITUEN": "Mawryngkneng", "DISTRICT": "East Khasi Hills", "CATEGORY": "Health Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 92.043525683000041, 25.600791293000043 ] } }
+,
+{ "type": "Feature", "id": 186, "properties": { "OBJECTID_1": 187, "OBJECTID": 551, "NAME": "Umthlong Health Sub Centre", "LOCATION": "Umthlong", "CONSTITUEN": "Mawlai", "DISTRICT": "East Khasi Hills", "CATEGORY": "Health Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.870518621000031, 25.599598352000044 ] } }
+,
+{ "type": "Feature", "id": 187, "properties": { "OBJECTID_1": 188, "OBJECTID": 674, "NAME": "Gorabadha Primary Health Centre", "LOCATION": "Gorabadha", "CONSTITUEN": "Rangsakona", "DISTRICT": "West Garo Hills", "CATEGORY": "Primary Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.03085210900008, 25.57486924300008 ] } }
+,
+{ "type": "Feature", "id": 188, "properties": { "OBJECTID_1": 189, "OBJECTID": 706, "NAME": "Dalupara Sub Centre", "LOCATION": "Dalupara", "CONSTITUEN": "Rangsakona", "DISTRICT": "West Garo Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.085330583000029, 25.57645584100004 ] } }
+,
+{ "type": "Feature", "id": 189, "properties": { "OBJECTID_1": 190, "OBJECTID": 771, "NAME": "Mawlieh Sub Centre", "LOCATION": "Mawlieh", "CONSTITUEN": "Rambrai-Jyrngam", "DISTRICT": "West Khasi Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.294560724000064, 25.596905114000037 ] } }
+,
+{ "type": "Feature", "id": 190, "properties": { "OBJECTID_1": 191, "OBJECTID": 748, "NAME": "Laitdom Sub Centre", "LOCATION": "Laitdom", "CONSTITUEN": "Mairang", "DISTRICT": "West Khasi Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.67311664500005, 25.601738992000037 ] } }
+,
+{ "type": "Feature", "id": 191, "properties": { "OBJECTID_1": 192, "OBJECTID": 758, "NAME": "Nongum Primary Health Centre", "LOCATION": "Nongum", "CONSTITUEN": "Mawthadraishan", "DISTRICT": "West Khasi Hills", "CATEGORY": "Primary Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.534389543000032, 25.605126146000089 ] } }
+,
+{ "type": "Feature", "id": 192, "properties": { "OBJECTID_1": 193, "OBJECTID": 501, "NAME": "Nongchram Health Centre", "LOCATION": "Nongchram", "CONSTITUEN": "Rongjeng", "DISTRICT": "East Garo Hills", "CATEGORY": "Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.857059518000028, 25.601284529000054 ] } }
+,
+{ "type": "Feature", "id": 193, "properties": { "OBJECTID_1": 194, "OBJECTID": 531, "NAME": "Mawiong Community Health Centre", "LOCATION": "Mawiong", "CONSTITUEN": "Mawlai", "DISTRICT": "East Khasi Hills", "CATEGORY": "Community Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.886992210000074, 25.613791957000046 ] } }
+,
+{ "type": "Feature", "id": 194, "properties": { "OBJECTID_1": 195, "OBJECTID": 738, "NAME": "Chidekgre Sub Centre", "LOCATION": "Chidekgre", "CONSTITUEN": "North Tura", "DISTRICT": "West Garo Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.159378071000049, 25.597302220000074 ] } }
+,
+{ "type": "Feature", "id": 195, "properties": { "OBJECTID_1": 196, "OBJECTID": 552, "NAME": "Mawtawar Health Sub Centre", "LOCATION": "Mawtawar", "CONSTITUEN": "Mawlai", "DISTRICT": "East Khasi Hills", "CATEGORY": "Health Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.921200069000065, 25.629357499000037 ] } }
+,
+{ "type": "Feature", "id": 196, "properties": { "OBJECTID_1": 197, "OBJECTID": 499, "NAME": "Darugre Health Centre", "LOCATION": "Darugre", "CONSTITUEN": "Rongjeng", "DISTRICT": "East Garo Hills", "CATEGORY": "Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.760300204000032, 25.618102315000044 ] } }
+,
+{ "type": "Feature", "id": 197, "properties": { "OBJECTID_1": 198, "OBJECTID": 759, "NAME": "Maroid Primary Health Centre", "LOCATION": "Madan Maroid", "CONSTITUEN": "Mawthadraishan", "DISTRICT": "West Khasi Hills", "CATEGORY": "Primary Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.626593, 25.63316 ] } }
+,
+{ "type": "Feature", "id": 198, "properties": { "OBJECTID_1": 199, "OBJECTID": 553, "NAME": "Mawsiatkhnam Health Sub Centre", "LOCATION": "Mawsiatkhnam", "CONSTITUEN": "Mawlai", "DISTRICT": "East Khasi Hills", "CATEGORY": "Health Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.976074844000038, 25.637878925000052 ] } }
+,
+{ "type": "Feature", "id": 199, "properties": { "OBJECTID_1": 200, "OBJECTID": 519, "NAME": "Tangkama Health Centre", "LOCATION": "Tangkama", "CONSTITUEN": "Songsak", "DISTRICT": "East Garo Hills", "CATEGORY": "Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.693245166000054, 25.623323495000079 ] } }
+,
+{ "type": "Feature", "id": 200, "properties": { "OBJECTID_1": 201, "OBJECTID": 757, "NAME": "Wahrit Primary Health Centre", "LOCATION": "Wahrit", "CONSTITUEN": "Mawthadraishan", "DISTRICT": "West Khasi Hills", "CATEGORY": "Primary Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.570057069000029, 25.642015064000077 ] } }
+,
+{ "type": "Feature", "id": 201, "properties": { "OBJECTID_1": 202, "OBJECTID": 652, "NAME": "Mawlyndep Primary Health Sub Centre", "LOCATION": "Mawlyndep", "CONSTITUEN": "Umsning", "DISTRICT": "Ri-Bhoi", "CATEGORY": "Primary Health Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.847226955000053, 25.646809271000052 ] } }
+,
+{ "type": "Feature", "id": 202, "properties": { "OBJECTID_1": 203, "OBJECTID": 768, "NAME": "Rambrai Primary Health Centre", "LOCATION": "Rambrai", "CONSTITUEN": "Rambrai-Jyrngam", "DISTRICT": "West Khasi Hills", "CATEGORY": "Primary Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.328432269000075, 25.643608386000039 ] } }
+,
+{ "type": "Feature", "id": 203, "properties": { "OBJECTID_1": 204, "OBJECTID": 704, "NAME": "Damjonggre Sub Centre", "LOCATION": "Damjonggre", "CONSTITUEN": "Selsella", "DISTRICT": "West Garo Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.07625962700007, 25.624151138000059 ] } }
+,
+{ "type": "Feature", "id": 204, "properties": { "OBJECTID_1": 205, "OBJECTID": 498, "NAME": "Bollongre Songsak Agitok Health Centre", "LOCATION": "Bollongre Songsak Agitok", "CONSTITUEN": "Songsak", "DISTRICT": "East Garo Hills", "CATEGORY": "Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.613070156000049, 25.636276191000036 ] } }
+,
+{ "type": "Feature", "id": 205, "properties": { "OBJECTID_1": 206, "OBJECTID": 516, "NAME": "Asil Songgital Health Centre", "LOCATION": "Asil Songgital", "CONSTITUEN": "Songsak", "DISTRICT": "East Garo Hills", "CATEGORY": "Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.516992911000045, 25.63688677600004 ] } }
+,
+{ "type": "Feature", "id": 206, "properties": { "OBJECTID_1": 207, "OBJECTID": 500, "NAME": "Rongjeng Health Centre", "LOCATION": "Rongjeng", "CONSTITUEN": "Rongjeng", "DISTRICT": "East Garo Hills", "CATEGORY": "Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.812396733000071, 25.647476094000069 ] } }
+,
+{ "type": "Feature", "id": 207, "properties": { "OBJECTID_1": 208, "OBJECTID": 666, "NAME": "Mawbsien  Primary Health Sub Centre", "LOCATION": "Mawbsien", "CONSTITUEN": "Umroi", "DISTRICT": "Ri-Bhoi", "CATEGORY": "Primary Health Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 92.070061959000043, 25.664391125000066 ] } }
+,
+{ "type": "Feature", "id": 208, "properties": { "OBJECTID_1": 209, "OBJECTID": 752, "NAME": "Mawsnar Sub Centre", "LOCATION": "Mawsnar", "CONSTITUEN": "Mairang", "DISTRICT": "West Khasi Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.716598885000053, 25.661763183000062 ] } }
+,
+{ "type": "Feature", "id": 209, "properties": { "OBJECTID_1": 210, "OBJECTID": 787, "NAME": "Sienduli Sub Centre", "LOCATION": "Sienduli", "CONSTITUEN": "Mawshynrut", "DISTRICT": "West Khasi Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.164323424000031, 25.659355513000037 ] } }
+,
+{ "type": "Feature", "id": 210, "properties": { "OBJECTID_1": 211, "OBJECTID": 630, "NAME": "Namdong Primary Health Centre", "LOCATION": "Namdong", "CONSTITUEN": "Nartiang", "DISTRICT": "Jaintia Hills", "CATEGORY": "Primary Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 92.315477480000027, 25.671389163000072 ] } }
+,
+{ "type": "Feature", "id": 211, "properties": { "OBJECTID_1": 212, "OBJECTID": 697, "NAME": "Bollonggre Sub Centre", "LOCATION": "Bollonggre", "CONSTITUEN": "Selsella", "DISTRICT": "West Garo Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 89.978508690000069, 25.64350191200009 ] } }
+,
+{ "type": "Feature", "id": 212, "properties": { "OBJECTID_1": 213, "OBJECTID": 742, "NAME": "Nongkhlaw Community Health Centre", "LOCATION": "Nongkhlaw", "CONSTITUEN": "Mairang", "DISTRICT": "West Khasi Hills", "CATEGORY": "Community Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.634734628000047, 25.672676920000072 ] } }
+,
+{ "type": "Feature", "id": 213, "properties": { "OBJECTID_1": 214, "OBJECTID": 703, "NAME": "Ujenggre Sub Centre", "LOCATION": "Ujenggre", "CONSTITUEN": "Selsella", "DISTRICT": "West Garo Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 89.990685166000048, 25.648702689000061 ] } }
+,
+{ "type": "Feature", "id": 214, "properties": { "OBJECTID_1": 215, "OBJECTID": 785, "NAME": "Mawsyrpat Sub Centre", "LOCATION": "Mawsyrpat", "CONSTITUEN": "Mawshynrut", "DISTRICT": "West Khasi Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.151409544000046, 25.673900588000038 ] } }
+,
+{ "type": "Feature", "id": 215, "properties": { "OBJECTID_1": 216, "OBJECTID": 778, "NAME": "Riangdo Primary Health Centre", "LOCATION": "Riangdo", "CONSTITUEN": "Mawshynrut", "DISTRICT": "West Khasi Hills", "CATEGORY": "Primary Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.06311420000003, 25.674597789000074 ] } }
+,
+{ "type": "Feature", "id": 216, "properties": { "OBJECTID_1": 217, "OBJECTID": 739, "NAME": "Boldakgre Sub Centre", "LOCATION": "Boldakgre", "CONSTITUEN": "Selsella", "DISTRICT": "West Garo Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 89.963306939000063, 25.656389832000059 ] } }
+,
+{ "type": "Feature", "id": 217, "properties": { "OBJECTID_1": 218, "OBJECTID": 705, "NAME": "Anderkona Sub Centre", "LOCATION": "Anderkona", "CONSTITUEN": "Rangsakona", "DISTRICT": "West Garo Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 89.985784399000067, 25.657973900000059 ] } }
+,
+{ "type": "Feature", "id": 218, "properties": { "OBJECTID_1": 219, "OBJECTID": 784, "NAME": "Mawthengkut Sub Centre", "LOCATION": "Mawthengkut", "CONSTITUEN": "Mawshynrut", "DISTRICT": "West Khasi Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.077677129000051, 25.684734736000053 ] } }
+,
+{ "type": "Feature", "id": 219, "properties": { "OBJECTID_1": 220, "OBJECTID": 648, "NAME": "Kyrdem Primary Health Centre", "LOCATION": "Kyrdem", "CONSTITUEN": "Umroi", "DISTRICT": "Ri-Bhoi", "CATEGORY": "Primary Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 92.078812327000037, 25.695128750000038 ] } }
+,
+{ "type": "Feature", "id": 220, "properties": { "OBJECTID_1": 221, "OBJECTID": 746, "NAME": "Mawkarah Sub Centre", "LOCATION": "Mawkarah", "CONSTITUEN": "Mairang", "DISTRICT": "West Khasi Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.574691698000038, 25.695689461000086 ] } }
+,
+{ "type": "Feature", "id": 221, "properties": { "OBJECTID_1": 222, "OBJECTID": 770, "NAME": "Nonglang Primary Health Centre", "LOCATION": "Nonglang", "CONSTITUEN": "Rambrai-Jyrngam", "DISTRICT": "West Khasi Hills", "CATEGORY": "Primary Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.183999035000056, 25.695518962000051 ] } }
+,
+{ "type": "Feature", "id": 222, "properties": { "OBJECTID_1": 223, "OBJECTID": 640, "NAME": "Bhoi lymbong   Community Health Centre", "LOCATION": "Bhoi lymbong", "CONSTITUEN": "Umroi", "DISTRICT": "Ri-Bhoi", "CATEGORY": "Community Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 92.016754153000079, 25.707531948000053 ] } }
+,
+{ "type": "Feature", "id": 223, "properties": { "OBJECTID_1": 224, "OBJECTID": 702, "NAME": "Wajatagre Sub Centre", "LOCATION": "Wajatagre", "CONSTITUEN": "Selsella", "DISTRICT": "West Garo Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.050805159000049, 25.688458321000041 ] } }
+,
+{ "type": "Feature", "id": 224, "properties": { "OBJECTID_1": 225, "OBJECTID": 502, "NAME": "Bamil nongrura Health Centre", "LOCATION": "Bamil Nongrura", "CONSTITUEN": "Rongjeng", "DISTRICT": "East Garo Hills", "CATEGORY": "Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.932862325000031, 25.703668454000081 ] } }
+,
+{ "type": "Feature", "id": 225, "properties": { "OBJECTID_1": 226, "OBJECTID": 698, "NAME": "Rangregre Sub Centre", "LOCATION": "Rangregre", "CONSTITUEN": "Selsella", "DISTRICT": "West Garo Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 89.946464769000045, 25.687096714000063 ] } }
+,
+{ "type": "Feature", "id": 226, "properties": { "OBJECTID_1": 227, "OBJECTID": 773, "NAME": "Kyrdum Sub Centre", "LOCATION": "Kyrdum", "CONSTITUEN": "Rambrai-Jyrngam", "DISTRICT": "West Khasi Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.204719902000079, 25.708255285000064 ] } }
+,
+{ "type": "Feature", "id": 227, "properties": { "OBJECTID_1": 228, "OBJECTID": 721, "NAME": "Selsella Primary Health Centre", "LOCATION": "Selsella", "CONSTITUEN": "Selsella", "DISTRICT": "West Garo Hills", "CATEGORY": "Primary Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.004676883000059, 25.694771391000074 ] } }
+,
+{ "type": "Feature", "id": 228, "properties": { "OBJECTID_1": 229, "OBJECTID": 503, "NAME": "Gabil Bisa Health Health Centre", "LOCATION": "Gabil Bisa", "CONSTITUEN": "Rongjeng", "DISTRICT": "East Garo Hills", "CATEGORY": "Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.83235575100008, 25.70954604700006 ] } }
+,
+{ "type": "Feature", "id": 229, "properties": { "OBJECTID_1": 230, "OBJECTID": 651, "NAME": "Umsong Primary Health Sub Centre", "LOCATION": "Umroi", "CONSTITUEN": "Umroi", "DISTRICT": "Ri-Bhoi", "CATEGORY": "Primary Health Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.989621180000029, 25.724915803000044 ] } }
+,
+{ "type": "Feature", "id": 230, "properties": { "OBJECTID_1": 231, "OBJECTID": 699, "NAME": "Rochonpara Sub Centre", "LOCATION": "Rochonpara", "CONSTITUEN": "Selsella", "DISTRICT": "West Garo Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 89.941350968000052, 25.696525079000082 ] } }
+,
+{ "type": "Feature", "id": 231, "properties": { "OBJECTID_1": 232, "OBJECTID": 646, "NAME": "Mawlasnai    Primary Health Centre", "LOCATION": "Mawlasnai", "CONSTITUEN": "Mawhati", "DISTRICT": "Ri-Bhoi", "CATEGORY": "Primary Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 92.152093861000083, 25.726367788000061 ] } }
+,
+{ "type": "Feature", "id": 232, "properties": { "OBJECTID_1": 233, "OBJECTID": 687, "NAME": "Rongchugre Dispensary", "LOCATION": "Rongchugre", "CONSTITUEN": "Dadenggre", "DISTRICT": "West Garo Hills", "CATEGORY": "Dispensary" }, "geometry": { "type": "Point", "coordinates": [ 90.164106970000034, 25.703266044000088 ] } }
+,
+{ "type": "Feature", "id": 233, "properties": { "OBJECTID_1": 234, "OBJECTID": 685, "NAME": "Selsella Community Health Centre", "LOCATION": "Selsella", "CONSTITUEN": "Selsella", "DISTRICT": "West Garo Hills", "CATEGORY": "Community Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.018323125000052, 25.703094754000062 ] } }
+,
+{ "type": "Feature", "id": 234, "properties": { "OBJECTID_1": 235, "OBJECTID": 684, "NAME": "Dadenggre Community Health Centre", "LOCATION": "Dadenggre", "CONSTITUEN": "Dadenggre", "DISTRICT": "West Garo Hills", "CATEGORY": "Community Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.203224277000061, 25.709859122000069 ] } }
+,
+{ "type": "Feature", "id": 235, "properties": { "OBJECTID_1": 236, "OBJECTID": 743, "NAME": "Dongkiingding Primary Health Centre", "LOCATION": "Dongkiingding", "CONSTITUEN": "Mairang", "DISTRICT": "West Khasi Hills", "CATEGORY": "Primary Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.668490619000067, 25.734065318000091 ] } }
+,
+{ "type": "Feature", "id": 236, "properties": { "OBJECTID_1": 237, "OBJECTID": 722, "NAME": "Dadenggre Primary Health Centre", "LOCATION": "Dadenggre", "CONSTITUEN": "Dadenggre", "DISTRICT": "West Garo Hills", "CATEGORY": "Primary Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.165077986000028, 25.713617404000047 ] } }
+,
+{ "type": "Feature", "id": 237, "properties": { "OBJECTID_1": 238, "OBJECTID": 772, "NAME": "Langja Sub Centre", "LOCATION": "Langja", "CONSTITUEN": "Rambrai-Jyrngam", "DISTRICT": "West Khasi Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.181746988000043, 25.73558746000009 ] } }
+,
+{ "type": "Feature", "id": 238, "properties": { "OBJECTID_1": 239, "OBJECTID": 676, "NAME": "Jeldupara Primary Health Centre", "LOCATION": "Jeldupara", "CONSTITUEN": "Selsella", "DISTRICT": "West Garo Hills", "CATEGORY": "Primary Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 89.926554449000037, 25.714520582000091 ] } }
+,
+{ "type": "Feature", "id": 239, "properties": { "OBJECTID_1": 240, "OBJECTID": 520, "NAME": "Koksi Nengsat Health Centre", "LOCATION": "Koksi Nengsat", "CONSTITUEN": "Songsak", "DISTRICT": "East Garo Hills", "CATEGORY": "Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.648604651000028, 25.729210526000088 ] } }
+,
+{ "type": "Feature", "id": 240, "properties": { "OBJECTID_1": 241, "OBJECTID": 667, "NAME": "Pynthor  Primary Health Sub Centre", "LOCATION": "Pynthor", "CONSTITUEN": "Umroi", "DISTRICT": "Ri-Bhoi", "CATEGORY": "Primary Health Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 92.034513506000053, 25.745567813000036 ] } }
+,
+{ "type": "Feature", "id": 241, "properties": { "OBJECTID_1": 242, "OBJECTID": 726, "NAME": "Romgre Sub Centre", "LOCATION": "Romgre", "CONSTITUEN": "Dadenggre", "DISTRICT": "West Garo Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.151054144000057, 25.720941448000076 ] } }
+,
+{ "type": "Feature", "id": 242, "properties": { "OBJECTID_1": 243, "OBJECTID": 663, "NAME": "Kyrdemkulai  Primary Health Sub Centre", "LOCATION": "Kyrdemkulai", "CONSTITUEN": "Umsning", "DISTRICT": "Ri-Bhoi", "CATEGORY": "Primary Health Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.845830603000081, 25.745294303000037 ] } }
+,
+{ "type": "Feature", "id": 243, "properties": { "OBJECTID_1": 244, "OBJECTID": 641, "NAME": "Umsning  Community Health Centre", "LOCATION": "Umsning", "CONSTITUEN": "Umsning", "DISTRICT": "Ri-Bhoi", "CATEGORY": "Community Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.89579357100007, 25.746473164000065 ] } }
+,
+{ "type": "Feature", "id": 244, "properties": { "OBJECTID_1": 245, "OBJECTID": 747, "NAME": "Umpdem Sub Centre", "LOCATION": "Umpdem", "CONSTITUEN": "Mairang", "DISTRICT": "West Khasi Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.752942761000043, 25.747966426000062 ] } }
+,
+{ "type": "Feature", "id": 245, "properties": { "OBJECTID_1": 246, "OBJECTID": 716, "NAME": "Anogre Sub Centre", "LOCATION": "Anogre", "CONSTITUEN": "Dadenggre", "DISTRICT": "West Garo Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.368411158000072, 25.731178828000054 ] } }
+,
+{ "type": "Feature", "id": 246, "properties": { "OBJECTID_1": 247, "OBJECTID": 775, "NAME": "Nongmise Sub Centre", "LOCATION": "Nongmise", "CONSTITUEN": "Rambrai-Jyrngam", "DISTRICT": "West Khasi Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.977467680000075, 25.746104751000075 ] } }
+,
+{ "type": "Feature", "id": 247, "properties": { "OBJECTID_1": 248, "OBJECTID": 515, "NAME": "Rongrong  Antidam Health Centre", "LOCATION": "Rongrong", "CONSTITUEN": "Songsak", "DISTRICT": "East Garo Hills", "CATEGORY": "Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.523696193000035, 25.739678017000074 ] } }
+,
+{ "type": "Feature", "id": 248, "properties": { "OBJECTID_1": 249, "OBJECTID": 725, "NAME": "Damal Asim  Sub Centre", "LOCATION": "Damal Asim", "CONSTITUEN": "Dadenggre", "DISTRICT": "West Garo Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.267470206000041, 25.735338619000061 ] } }
+,
+{ "type": "Feature", "id": 249, "properties": { "OBJECTID_1": 250, "OBJECTID": 715, "NAME": "Baljek Sub Centre", "LOCATION": "Baljek", "CONSTITUEN": "Dadenggre", "DISTRICT": "West Garo Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.239375946000052, 25.735003698000071 ] } }
+,
+{ "type": "Feature", "id": 250, "properties": { "OBJECTID_1": 251, "OBJECTID": 749, "NAME": "Jakhong Sub Centre", "LOCATION": "Jakhong", "CONSTITUEN": "Mairang", "DISTRICT": "West Khasi Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.567032871000038, 25.759198734000051 ] } }
+,
+{ "type": "Feature", "id": 251, "properties": { "OBJECTID_1": 252, "OBJECTID": 700, "NAME": "Hallidayganj Sub Centre", "LOCATION": "Hallidayganj", "CONSTITUEN": "Selsella", "DISTRICT": "West Garo Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 89.900349672000061, 25.742452268000079 ] } }
+,
+{ "type": "Feature", "id": 252, "properties": { "OBJECTID_1": 253, "OBJECTID": 662, "NAME": "Raitong Primary Health Sub Centre", "LOCATION": "Raitong", "CONSTITUEN": "Mawhati", "DISTRICT": "Ri-Bhoi", "CATEGORY": "Primary Health Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.980305438000073, 25.772626455000079 ] } }
+,
+{ "type": "Feature", "id": 253, "properties": { "OBJECTID_1": 254, "OBJECTID": 521, "NAME": "Dagal Apal  Health Centre", "LOCATION": "Dagal Apal", "CONSTITUEN": "Songsak", "DISTRICT": "East Garo Hills", "CATEGORY": "Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.613519856000039, 25.757210047000058 ] } }
+,
+{ "type": "Feature", "id": 254, "properties": { "OBJECTID_1": 255, "OBJECTID": 701, "NAME": "Bhajamara Sub Centre", "LOCATION": "Bhajamara", "CONSTITUEN": "Rajabala", "DISTRICT": "West Garo Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.037555005000058, 25.750917008000044 ] } }
+,
+{ "type": "Feature", "id": 255, "properties": { "OBJECTID_1": 256, "OBJECTID": 694, "NAME": "Rajabala Sub Centre", "LOCATION": "Rajabala", "CONSTITUEN": "Rajabala", "DISTRICT": "West Garo Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 89.99044077800005, 25.750416457000085 ] } }
+,
+{ "type": "Feature", "id": 256, "properties": { "OBJECTID_1": 257, "OBJECTID": 668, "NAME": "Myrdon mawtari  Primary Health Sub Centre", "LOCATION": "Myrdon mawtari", "CONSTITUEN": "Umsning", "DISTRICT": "Ri-Bhoi", "CATEGORY": "Primary Health Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.832379228000036, 25.777175121000084 ] } }
+,
+{ "type": "Feature", "id": 257, "properties": { "OBJECTID_1": 258, "OBJECTID": 665, "NAME": "Tyrso  Primary Health Sub Centre", "LOCATION": "Tyrso", "CONSTITUEN": "Mawhati", "DISTRICT": "Ri-Bhoi", "CATEGORY": "Primary Health Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 92.145717298000079, 25.785401039000078 ] } }
+,
+{ "type": "Feature", "id": 258, "properties": { "OBJECTID_1": 259, "OBJECTID": 727, "NAME": "Magalpara Sub Centre", "LOCATION": "Magalpara", "CONSTITUEN": "Dadenggre", "DISTRICT": "West Garo Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.162222205000035, 25.762308534000056 ] } }
+,
+{ "type": "Feature", "id": 259, "properties": { "OBJECTID_1": 260, "OBJECTID": 774, "NAME": "Tynghor Sub Centre", "LOCATION": "Tynghor", "CONSTITUEN": "Rambrai-Jyrngam", "DISTRICT": "West Khasi Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.168498492000083, 25.785878259000071 ] } }
+,
+{ "type": "Feature", "id": 260, "properties": { "OBJECTID_1": 261, "OBJECTID": 695, "NAME": "Batabari Sub Centre", "LOCATION": "Batabari", "CONSTITUEN": "Rajabala", "DISTRICT": "West Garo Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.012932794000051, 25.766881369000089 ] } }
+,
+{ "type": "Feature", "id": 261, "properties": { "OBJECTID_1": 262, "OBJECTID": 504, "NAME": "Gabil bisa Health Centre", "LOCATION": "Dokongsi", "CONSTITUEN": "Kharkutta", "DISTRICT": "East Garo Hills", "CATEGORY": "Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.895443636000039, 25.785626876000038 ] } }
+,
+{ "type": "Feature", "id": 262, "properties": { "OBJECTID_1": 263, "OBJECTID": 655, "NAME": "Mawlyngkhung   Primary Health Sub Centre", "LOCATION": "Mawlyngkhung", "CONSTITUEN": "Umsning", "DISTRICT": "Ri-Bhoi", "CATEGORY": "Primary Health Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.935426419000066, 25.799716046000071 ] } }
+,
+{ "type": "Feature", "id": 263, "properties": { "OBJECTID_1": 264, "OBJECTID": 644, "NAME": "Mawhati   Primary Health Centre", "LOCATION": "Mawhati", "CONSTITUEN": "Mawhati", "DISTRICT": "Ri-Bhoi", "CATEGORY": "Primary Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 92.081502086000057, 25.802925249000054 ] } }
+,
+{ "type": "Feature", "id": 264, "properties": { "OBJECTID_1": 265, "OBJECTID": 696, "NAME": "Takimagre Sub Centre", "LOCATION": "Takimagre", "CONSTITUEN": "Rajabala", "DISTRICT": "West Garo Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.060476970000082, 25.785009749000039 ] } }
+,
+{ "type": "Feature", "id": 265, "properties": { "OBJECTID_1": 266, "OBJECTID": 656, "NAME": "Umsalem  Primary Health Sub Centre", "LOCATION": "Umsalem", "CONSTITUEN": "Umsning", "DISTRICT": "Ri-Bhoi", "CATEGORY": "Primary Health Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.883772017000069, 25.810657909000042 ] } }
+,
+{ "type": "Feature", "id": 266, "properties": { "OBJECTID_1": 267, "OBJECTID": 718, "NAME": "Manggakgre Sub Centre", "LOCATION": "Manggakgre", "CONSTITUEN": "Dadenggre", "DISTRICT": "West Garo Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.333313756000052, 25.793231802000037 ] } }
+,
+{ "type": "Feature", "id": 267, "properties": { "OBJECTID_1": 268, "OBJECTID": 653, "NAME": "Kynjoin umran Primary Health Sub Centre", "LOCATION": "Kynjoin umran", "CONSTITUEN": "Umsning", "DISTRICT": "Ri-Bhoi", "CATEGORY": "Primary Health Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.860175711000068, 25.821842874000083 ] } }
+,
+{ "type": "Feature", "id": 268, "properties": { "OBJECTID_1": 269, "OBJECTID": 514, "NAME": "Mendal Health Centre", "LOCATION": "Mendal", "CONSTITUEN": "Bajengdoba", "DISTRICT": "East Garo Hills", "CATEGORY": "Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.434892493000063, 25.805696115000046 ] } }
+,
+{ "type": "Feature", "id": 269, "properties": { "OBJECTID_1": 270, "OBJECTID": 723, "NAME": "Bikonggre Sub Centre", "LOCATION": "Bikonggre", "CONSTITUEN": "Phulbari", "DISTRICT": "West Garo Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.145021913000051, 25.805275295000058 ] } }
+,
+{ "type": "Feature", "id": 270, "properties": { "OBJECTID_1": 271, "OBJECTID": 649, "NAME": "Warmawsaw Primary Health Centre", "LOCATION": "Warmawsaw", "CONSTITUEN": "Jirang", "DISTRICT": "Ri-Bhoi", "CATEGORY": "Primary Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.534724320000066, 25.827442357000052 ] } }
+,
+{ "type": "Feature", "id": 271, "properties": { "OBJECTID_1": 272, "OBJECTID": 677, "NAME": "Bhaitbari Primary Health Centre", "LOCATION": "Bhaitbari", "CONSTITUEN": "Rajabala", "DISTRICT": "West Garo Hills", "CATEGORY": "Primary Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 89.96443830700008, 25.803814386000056 ] } }
+,
+{ "type": "Feature", "id": 272, "properties": { "OBJECTID_1": 273, "OBJECTID": 777, "NAME": "Kyrshai Sub Centre", "LOCATION": "Kyrshai", "CONSTITUEN": "Rambrai-Jyrngam", "DISTRICT": "West Khasi Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.34184790200004, 25.828129053000055 ] } }
+,
+{ "type": "Feature", "id": 273, "properties": { "OBJECTID_1": 274, "OBJECTID": 658, "NAME": "Mawrong  Primary Health Sub Centre", "LOCATION": "Mawrong", "CONSTITUEN": "Mawhati", "DISTRICT": "Ri-Bhoi", "CATEGORY": "Primary Health Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.970567722000055, 25.844248998000069 ] } }
+,
+{ "type": "Feature", "id": 274, "properties": { "OBJECTID_1": 275, "OBJECTID": 769, "NAME": "Aradongnga Primary Health Centre", "LOCATION": "Aradongnga", "CONSTITUEN": "Rambrai-Jyrngam", "DISTRICT": "West Khasi Hills", "CATEGORY": "Primary Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.188674638000066, 25.84079046700009 ] } }
+,
+{ "type": "Feature", "id": 275, "properties": { "OBJECTID_1": 276, "OBJECTID": 724, "NAME": "Chanangpara Sub Centre", "LOCATION": "Chanangpara", "CONSTITUEN": "Phulbari", "DISTRICT": "West Garo Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.096353199000077, 25.829313924000076 ] } }
+,
+{ "type": "Feature", "id": 276, "properties": { "OBJECTID_1": 277, "OBJECTID": 693, "NAME": "Belbari Sub Centre", "LOCATION": "Belbari", "CONSTITUEN": "Rajabala", "DISTRICT": "West Garo Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.034039227000051, 25.82991867000004 ] } }
+,
+{ "type": "Feature", "id": 277, "properties": { "OBJECTID_1": 278, "OBJECTID": 690, "NAME": "Rangsagre Sub Centre", "LOCATION": "Rangsagre", "CONSTITUEN": "Tikrikilla", "DISTRICT": "West Garo Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.222528171000079, 25.836896875000036 ] } }
+,
+{ "type": "Feature", "id": 278, "properties": { "OBJECTID_1": 279, "OBJECTID": 728, "NAME": "Cheran Songmagre Sub Centre", "LOCATION": "Cheran Songmagre", "CONSTITUEN": "Tikrikilla", "DISTRICT": "West Garo Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.184000735000041, 25.840491497000073 ] } }
+,
+{ "type": "Feature", "id": 279, "properties": { "OBJECTID_1": 280, "OBJECTID": 659, "NAME": "Sonidan  Primary Health Sub Centre", "LOCATION": "Sonidan", "CONSTITUEN": "Mawhati", "DISTRICT": "Ri-Bhoi", "CATEGORY": "Primary Health Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 92.150153089000071, 25.869402153000067 ] } }
+,
+{ "type": "Feature", "id": 280, "properties": { "OBJECTID_1": 281, "OBJECTID": 692, "NAME": "Jangrapara Sub Centre", "LOCATION": "Jangrapara", "CONSTITUEN": "Raksamgre", "DISTRICT": "West Garo Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.284450312000047, 25.849340517000087 ] } }
+,
+{ "type": "Feature", "id": 281, "properties": { "OBJECTID_1": 282, "OBJECTID": 740, "NAME": "Jangrapara Sub Centre", "LOCATION": "Jangrapara", "CONSTITUEN": "Raksamgre", "DISTRICT": "West Garo Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.30755767200003, 25.850923293000051 ] } }
+,
+{ "type": "Feature", "id": 282, "properties": { "OBJECTID_1": 283, "OBJECTID": 691, "NAME": "Rongbokgre Sub Centre", "LOCATION": "Rongbokgre", "CONSTITUEN": "Raksamgre", "DISTRICT": "West Garo Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.279100824000068, 25.863475477000065 ] } }
+,
+{ "type": "Feature", "id": 283, "properties": { "OBJECTID_1": 284, "OBJECTID": 657, "NAME": "Umsong  Primary Health Sub Centre", "LOCATION": "Umsong", "CONSTITUEN": "Jirang", "DISTRICT": "Ri-Bhoi", "CATEGORY": "Primary Health Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.708722759000068, 25.883362040000065 ] } }
+,
+{ "type": "Feature", "id": 284, "properties": { "OBJECTID_1": 285, "OBJECTID": 505, "NAME": "Adokgre Health Centre", "LOCATION": "Adokgre", "CONSTITUEN": "Kharkutta", "DISTRICT": "East Garo Hills", "CATEGORY": "Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.981491647000041, 25.875719102000062 ] } }
+,
+{ "type": "Feature", "id": 285, "properties": { "OBJECTID_1": 286, "OBJECTID": 645, "NAME": "Marngar Primary Health Centre", "LOCATION": "Marngar", "CONSTITUEN": "Umsning", "DISTRICT": "Ri-Bhoi", "CATEGORY": "Primary Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.922579585000051, 25.887240813000062 ] } }
+,
+{ "type": "Feature", "id": 286, "properties": { "OBJECTID_1": 287, "OBJECTID": 642, "NAME": "Patharkhmah  Community Health Centre", "LOCATION": "Patharkhmah", "CONSTITUEN": "Jirang", "DISTRICT": "Ri-Bhoi", "CATEGORY": "Community Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.616161692000048, 25.890200585000059 ] } }
+,
+{ "type": "Feature", "id": 287, "properties": { "OBJECTID_1": 288, "OBJECTID": 654, "NAME": "Umsaw nongbri  Primary Health Sub Centre", "LOCATION": "Umsaw nongbri", "CONSTITUEN": "Nongpoh", "DISTRICT": "Ri-Bhoi", "CATEGORY": "Primary Health Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.999224328000082, 25.907812074000049 ] } }
+,
+{ "type": "Feature", "id": 288, "properties": { "OBJECTID_1": 289, "OBJECTID": 512, "NAME": "Line Ading Health Centre", "LOCATION": "Line Ading", "CONSTITUEN": "Bajengdoba", "DISTRICT": "East Garo Hills", "CATEGORY": "Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.498563130000036, 25.894969994000064 ] } }
+,
+{ "type": "Feature", "id": 289, "properties": { "OBJECTID_1": 290, "OBJECTID": 508, "NAME": "Upper Nogolpara Health Centre", "LOCATION": "Upper Nogolpara", "CONSTITUEN": "Mendipathar", "DISTRICT": "East Garo Hills", "CATEGORY": "Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.763848789000065, 25.899305962000085 ] } }
+,
+{ "type": "Feature", "id": 290, "properties": { "OBJECTID_1": 291, "OBJECTID": 639, "NAME": "Nongpoh Hospital", "LOCATION": "Nongpoh", "CONSTITUEN": "Nongpoh", "DISTRICT": "Ri-Bhoi", "CATEGORY": "Hospital" }, "geometry": { "type": "Point", "coordinates": [ 91.873302670000044, 25.913405827000076 ] } }
+,
+{ "type": "Feature", "id": 291, "properties": { "OBJECTID_1": 292, "OBJECTID": 683, "NAME": "Phulbari Community Health Centre", "LOCATION": "Phulbari", "CONSTITUEN": "Phulbari", "DISTRICT": "West Garo Hills", "CATEGORY": "Community Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.021904954000036, 25.887658242000043 ] } }
+,
+{ "type": "Feature", "id": 292, "properties": { "OBJECTID_1": 293, "OBJECTID": 506, "NAME": "Lower Kharkutta Health Centre", "LOCATION": "Lower Kharkutta", "CONSTITUEN": "Kharkutta", "DISTRICT": "East Garo Hills", "CATEGORY": "Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.910103181000068, 25.906729375000054 ] } }
+,
+{ "type": "Feature", "id": 293, "properties": { "OBJECTID_1": 294, "OBJECTID": 720, "NAME": "Phulbari Primary Health Centre", "LOCATION": "Phulbari", "CONSTITUEN": "Phulbari", "DISTRICT": "West Garo Hills", "CATEGORY": "Primary Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.030116768000028, 25.892283037000084 ] } }
+,
+{ "type": "Feature", "id": 294, "properties": { "OBJECTID_1": 295, "OBJECTID": 510, "NAME": "Berubari Health Centre", "LOCATION": "Berubari", "CONSTITUEN": "Resubelpara", "DISTRICT": "East Garo Hills", "CATEGORY": "Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.536657348000062, 25.905411792000052 ] } }
+,
+{ "type": "Feature", "id": 295, "properties": { "OBJECTID_1": 296, "OBJECTID": 686, "NAME": "Raksamgre Dispensary", "LOCATION": "Raksamgre", "CONSTITUEN": "Raksamgre", "DISTRICT": "West Garo Hills", "CATEGORY": "Dispensary" }, "geometry": { "type": "Point", "coordinates": [ 90.300301281000031, 25.903434405000041 ] } }
+,
+{ "type": "Feature", "id": 296, "properties": { "OBJECTID_1": 297, "OBJECTID": 717, "NAME": "Bolchugre Sub Centre", "LOCATION": "Bolchugre", "CONSTITUEN": "Raksamgre", "DISTRICT": "West Garo Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.391831676000038, 25.907438728000045 ] } }
+,
+{ "type": "Feature", "id": 297, "properties": { "OBJECTID_1": 298, "OBJECTID": 511, "NAME": "Gosingpita Health Centre", "LOCATION": "Gosingpita", "CONSTITUEN": "Bajengdoba", "DISTRICT": "East Garo Hills", "CATEGORY": "Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.489673502000073, 25.916137053000057 ] } }
+,
+{ "type": "Feature", "id": 298, "properties": { "OBJECTID_1": 299, "OBJECTID": 507, "NAME": "Baksalpara Health Centre", "LOCATION": "Baksalpara", "CONSTITUEN": "Kharkutta", "DISTRICT": "East Garo Hills", "CATEGORY": "Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.856901102000052, 25.92797999000004 ] } }
+,
+{ "type": "Feature", "id": 299, "properties": { "OBJECTID_1": 300, "OBJECTID": 509, "NAME": "Damash Health Centre", "LOCATION": "Damash", "CONSTITUEN": "Mendipathar", "DISTRICT": "East Garo Hills", "CATEGORY": "Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.721323588000075, 25.937650673000064 ] } }
+,
+{ "type": "Feature", "id": 300, "properties": { "OBJECTID_1": 301, "OBJECTID": 689, "NAME": "Nidhanpur Sub Centre", "LOCATION": "Nidhanpur", "CONSTITUEN": "Tikrikilla", "DISTRICT": "West Garo Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.125714360000075, 25.930039209000086 ] } }
+,
+{ "type": "Feature", "id": 301, "properties": { "OBJECTID_1": 302, "OBJECTID": 669, "NAME": "Umling  Primary Health Sub Centre", "LOCATION": "Umling", "CONSTITUEN": "Nongpoh", "DISTRICT": "Ri-Bhoi", "CATEGORY": "Primary Health Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.858888140000033, 25.966056479000088 ] } }
+,
+{ "type": "Feature", "id": 302, "properties": { "OBJECTID_1": 303, "OBJECTID": 688, "NAME": "Hallaidanga Sub Centre", "LOCATION": "Hallaidanga", "CONSTITUEN": "Tikrikilla", "DISTRICT": "West Garo Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.142958942000064, 25.94602946200007 ] } }
+,
+{ "type": "Feature", "id": 303, "properties": { "OBJECTID_1": 304, "OBJECTID": 647, "NAME": "Umden    Primary Health Centre", "LOCATION": "Umden", "CONSTITUEN": "Nongpoh", "DISTRICT": "Ri-Bhoi", "CATEGORY": "Primary Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.994670172000042, 25.97079225300007 ] } }
+,
+{ "type": "Feature", "id": 304, "properties": { "OBJECTID_1": 305, "OBJECTID": 513, "NAME": "Bolsong Kamagiri Health Centre", "LOCATION": "Bolsong Kamagiri", "CONSTITUEN": "Bajengdoba", "DISTRICT": "East Garo Hills", "CATEGORY": "Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.474320566000074, 25.952494136000041 ] } }
+,
+{ "type": "Feature", "id": 305, "properties": { "OBJECTID_1": 306, "OBJECTID": 678, "NAME": "Tikrikilla Primary Health Centre", "LOCATION": "Tikrikilla", "CONSTITUEN": "Tikrikilla", "DISTRICT": "West Garo Hills", "CATEGORY": "Primary Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.224386378000077, 25.949087821000035 ] } }
+,
+{ "type": "Feature", "id": 306, "properties": { "OBJECTID_1": 307, "OBJECTID": 730, "NAME": "Belguri Sub Centre", "LOCATION": "Belguri", "CONSTITUEN": "Raksamgre", "DISTRICT": "West Garo Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.350715729000058, 25.96240640700006 ] } }
+,
+{ "type": "Feature", "id": 307, "properties": { "OBJECTID_1": 308, "OBJECTID": 732, "NAME": "Naguapara Sub Centre", "LOCATION": "Naguapara", "CONSTITUEN": "Raksamgre", "DISTRICT": "West Garo Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.322343785000044, 25.966701458000045 ] } }
+,
+{ "type": "Feature", "id": 308, "properties": { "OBJECTID_1": 309, "OBJECTID": 664, "NAME": "Narang Primary Health Sub Centre", "LOCATION": "Narang", "CONSTITUEN": "Nongpoh", "DISTRICT": "Ri-Bhoi", "CATEGORY": "Primary Health Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.863205710000045, 25.991389069000036 ] } }
+,
+{ "type": "Feature", "id": 309, "properties": { "OBJECTID_1": 310, "OBJECTID": 650, "NAME": "Umtrai Primary Health Centre", "LOCATION": "Umtrai", "CONSTITUEN": "Nongpoh", "DISTRICT": "Ri-Bhoi", "CATEGORY": "Primary Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 92.132731763000038, 25.996181676000049 ] } }
+,
+{ "type": "Feature", "id": 310, "properties": { "OBJECTID_1": 311, "OBJECTID": 679, "NAME": "Pedaldoba Primary Health Centre", "LOCATION": "Pedaldoba", "CONSTITUEN": "Raksamgre", "DISTRICT": "West Garo Hills", "CATEGORY": "Primary Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.422515402000045, 25.986344629000087 ] } }
+,
+{ "type": "Feature", "id": 311, "properties": { "OBJECTID_1": 312, "OBJECTID": 731, "NAME": "Pedaldoba Sub Centre", "LOCATION": "Pedaldoba", "CONSTITUEN": "Raksamgre", "DISTRICT": "West Garo Hills", "CATEGORY": "Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 90.411152336000043, 25.991436148000048 ] } }
+,
+{ "type": "Feature", "id": 312, "properties": { "OBJECTID_1": 313, "OBJECTID": 643, "NAME": "Byrnihat  primary health centre", "LOCATION": "Byrnihat", "CONSTITUEN": "Jirang", "DISTRICT": "Ri-Bhoi", "CATEGORY": "Primary Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.869263301000046, 26.039225040000076 ] } }
+,
+{ "type": "Feature", "id": 313, "properties": { "OBJECTID_1": 314, "OBJECTID": 660, "NAME": "Baridua  Primary Health Sub Centre", "LOCATION": "Baridua", "CONSTITUEN": "Jirang", "DISTRICT": "Ri-Bhoi", "CATEGORY": "Primary Health Sub Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.845197536000057, 26.10673095900006 ] } }
+
+]
+}

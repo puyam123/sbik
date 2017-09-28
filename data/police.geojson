@@ -1,0 +1,184 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "OBJECTID_1": 1, "OBJECTID": 240, "NAME": "Umkiang Police Out Post", "LOCATION": "Umkiang", "CONSTITUEN": "Sutnga-Saipung", "DISTRICT": "Jaintia Hills", "CATEGORY": "Police Out Post" }, "geometry": { "type": "Point", "coordinates": [ 92.394081914000083, 25.070394584000042 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "OBJECTID_1": 2, "OBJECTID": 231, "NAME": "Umkiang Police Petrol Force", "LOCATION": "Umkiang", "CONSTITUEN": "Sutnga-Saipung", "DISTRICT": "Jaintia Hills", "CATEGORY": "Police Petrol Force" }, "geometry": { "type": "Point", "coordinates": [ 92.388921765000077, 25.080997642000057 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "OBJECTID_1": 3, "OBJECTID": 232, "NAME": "Lumshnong ADC", "LOCATION": "Lumshnong", "CONSTITUEN": "Sutnga-Saipung", "DISTRICT": "Jaintia Hills", "CATEGORY": "ADC" }, "geometry": { "type": "Point", "coordinates": [ 92.391098079000074, 25.183145126000056 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "OBJECTID_1": 4, "OBJECTID": 242, "NAME": "Dawki Police Check Post", "LOCATION": "Dawki", "CONSTITUEN": "Amlarem", "DISTRICT": "Jaintia Hills", "CATEGORY": "Police Check Post" }, "geometry": { "type": "Point", "coordinates": [ 92.02785539100006, 25.184250276000057 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "OBJECTID_1": 5, "OBJECTID": 226, "NAME": "Dawki Police Station", "LOCATION": "Dawki", "CONSTITUEN": "Amlarem", "DISTRICT": "Jaintia Hills", "CATEGORY": "Police Station" }, "geometry": { "type": "Point", "coordinates": [ 92.032833673000027, 25.186253319000059 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "OBJECTID_1": 6, "OBJECTID": 205, "NAME": "Mahadeo Police Out Post", "LOCATION": "Mahadeo", "CONSTITUEN": "Siju-Rongara", "DISTRICT": "South Garo Hills", "CATEGORY": "Police Out Post" }, "geometry": { "type": "Point", "coordinates": [ 90.925419446000035, 25.181856088000075 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "OBJECTID_1": 7, "OBJECTID": 254, "NAME": "Shella Police Station", "LOCATION": "Shella", "CONSTITUEN": "Shella", "DISTRICT": "East Khasi Hills", "CATEGORY": "Police Station" }, "geometry": { "type": "Point", "coordinates": [ 91.690930726000033, 25.201938968000036 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "OBJECTID_1": 8, "OBJECTID": 204, "NAME": "Rongara Police Station", "LOCATION": "Rongara", "CONSTITUEN": "Siju-Rongara", "DISTRICT": "South Garo Hills", "CATEGORY": "Police Station" }, "geometry": { "type": "Point", "coordinates": [ 90.821006038000064, 25.195290425000053 ] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "OBJECTID_1": 9, "OBJECTID": 202, "NAME": "Baghmara Police Station", "LOCATION": "Baghmara", "CONSTITUEN": "Baghmara", "DISTRICT": "South Garo Hills", "CATEGORY": "Police Station" }, "geometry": { "type": "Point", "coordinates": [ 90.668105473000082, 25.203565899000068 ] } }
+,
+{ "type": "Feature", "id": 9, "properties": { "OBJECTID_1": 10, "OBJECTID": 198, "NAME": "Dalu Imigrant Check Post", "LOCATION": "Dalu", "CONSTITUEN": "Dalu", "DISTRICT": "West Garo Hills", "CATEGORY": "Imigrant Check Post" }, "geometry": { "type": "Point", "coordinates": [ 90.256973705000064, 25.200308663000044 ] } }
+,
+{ "type": "Feature", "id": 10, "properties": { "OBJECTID_1": 11, "OBJECTID": 184, "NAME": "Ranikor Police Station", "LOCATION": "Ranikor", "CONSTITUEN": "Ranikor", "DISTRICT": "West Khasi Hills", "CATEGORY": "Police Station" }, "geometry": { "type": "Point", "coordinates": [ 91.202859277000073, 25.218804150000039 ] } }
+,
+{ "type": "Feature", "id": 11, "properties": { "OBJECTID_1": 12, "OBJECTID": 192, "NAME": "Dalu  Police Station", "LOCATION": "Dalu", "CONSTITUEN": "Dalu", "DISTRICT": "West Garo Hills", "CATEGORY": "Police Station" }, "geometry": { "type": "Point", "coordinates": [ 90.270718566000028, 25.206915860000038 ] } }
+,
+{ "type": "Feature", "id": 12, "properties": { "OBJECTID_1": 13, "OBJECTID": 207, "NAME": "Sibbari Police Out Post", "LOCATION": "Sibbari", "CONSTITUEN": "Baghmara", "DISTRICT": "South Garo Hills", "CATEGORY": "Police Out Post" }, "geometry": { "type": "Point", "coordinates": [ 90.536161503000073, 25.225649801000088 ] } }
+,
+{ "type": "Feature", "id": 13, "properties": { "OBJECTID_1": 14, "OBJECTID": 225, "NAME": "Amlarem Police Station", "LOCATION": "Amlarem", "CONSTITUEN": "Amlarem", "DISTRICT": "Jaintia Hills", "CATEGORY": "Police Station" }, "geometry": { "type": "Point", "coordinates": [ 92.118224804000079, 25.264164860000051 ] } }
+,
+{ "type": "Feature", "id": 14, "properties": { "OBJECTID_1": 15, "OBJECTID": 251, "NAME": "Mawsynram Police Station", "LOCATION": "Mawsynram", "CONSTITUEN": "Mawsynram", "DISTRICT": "East Khasi Hills", "CATEGORY": "Police Station" }, "geometry": { "type": "Point", "coordinates": [ 91.58791401600007, 25.29025362200008 ] } }
+,
+{ "type": "Feature", "id": 15, "properties": { "OBJECTID_1": 16, "OBJECTID": 252, "NAME": "Pynursla Police Station", "LOCATION": "Pynursla", "CONSTITUEN": "Pynursla", "DISTRICT": "East Khasi Hills", "CATEGORY": "Police Station" }, "geometry": { "type": "Point", "coordinates": [ 91.90853611700004, 25.31047123500008 ] } }
+,
+{ "type": "Feature", "id": 16, "properties": { "OBJECTID_1": 17, "OBJECTID": 241, "NAME": "Saipung Police Station", "LOCATION": "Saipung", "CONSTITUEN": "Sutnga-Saipung", "DISTRICT": "Jaintia Hills", "CATEGORY": "Police Station" }, "geometry": { "type": "Point", "coordinates": [ 92.629775547000065, 25.34147523900009 ] } }
+,
+{ "type": "Feature", "id": 17, "properties": { "OBJECTID_1": 18, "OBJECTID": 250, "NAME": "Sohra Police Station", "LOCATION": "Sohra", "CONSTITUEN": "Sohra", "DISTRICT": "East Khasi Hills", "CATEGORY": "Police Station" }, "geometry": { "type": "Point", "coordinates": [ 91.748719330000029, 25.345895831000064 ] } }
+,
+{ "type": "Feature", "id": 18, "properties": { "OBJECTID_1": 19, "OBJECTID": 203, "NAME": "Chokpot Police Station", "LOCATION": "Chokpot", "CONSTITUEN": "Chokpot", "DISTRICT": "South Garo Hills", "CATEGORY": "Police Station" }, "geometry": { "type": "Point", "coordinates": [ 90.379931356000043, 25.34711228000009 ] } }
+,
+{ "type": "Feature", "id": 19, "properties": { "OBJECTID_1": 20, "OBJECTID": 185, "NAME": "Mawkyrwat Police Station", "LOCATION": "Mawkyrwat", "CONSTITUEN": "Mawkyrwat", "DISTRICT": "West Khasi Hills", "CATEGORY": "Police Station" }, "geometry": { "type": "Point", "coordinates": [ 91.461537281000062, 25.36316258800008 ] } }
+,
+{ "type": "Feature", "id": 20, "properties": { "OBJECTID_1": 21, "OBJECTID": 228, "NAME": "Lad Rymbai  Beat House", "LOCATION": "Lad Rymbai", "CONSTITUEN": "Khliehriat", "DISTRICT": "Jaintia Hills", "CATEGORY": "Beat House" }, "geometry": { "type": "Point", "coordinates": [ 92.320432818000029, 25.370788283000081 ] } }
+,
+{ "type": "Feature", "id": 21, "properties": { "OBJECTID_1": 22, "OBJECTID": 224, "NAME": "Khliehriat Police Station", "LOCATION": "Khliehriat", "CONSTITUEN": "Khliehriat", "DISTRICT": "Jaintia Hills", "CATEGORY": "Police Station" }, "geometry": { "type": "Point", "coordinates": [ 92.369536758000038, 25.375958224000044 ] } }
+,
+{ "type": "Feature", "id": 22, "properties": { "OBJECTID_1": 23, "OBJECTID": 208, "NAME": "Siju Police Out Post", "LOCATION": "Siju", "CONSTITUEN": "Siju-Rongara", "DISTRICT": "South Garo Hills", "CATEGORY": "Police Out Post" }, "geometry": { "type": "Point", "coordinates": [ 90.68932628500005, 25.373642359000087 ] } }
+,
+{ "type": "Feature", "id": 23, "properties": { "OBJECTID_1": 24, "OBJECTID": 237, "NAME": "Umkyrpong Border Out Post", "LOCATION": "Umkyrpong", "CONSTITUEN": "Sutnga-Saipung", "DISTRICT": "Jaintia Hills", "CATEGORY": "Border Out Post" }, "geometry": { "type": "Point", "coordinates": [ 92.593198016000031, 25.437399190000065 ] } }
+,
+{ "type": "Feature", "id": 24, "properties": { "OBJECTID_1": 25, "OBJECTID": 223, "NAME": "Jowai Police Station", "LOCATION": "Jowai", "CONSTITUEN": "Jowai", "DISTRICT": "Jaintia Hills", "CATEGORY": "Police Station" }, "geometry": { "type": "Point", "coordinates": [ 92.206385540000042, 25.438654543000041 ] } }
+,
+{ "type": "Feature", "id": 25, "properties": { "OBJECTID_1": 26, "OBJECTID": 206, "NAME": "Nongalbibra Police Out Post", "LOCATION": "Nongalbibra", "CONSTITUEN": "Siju-Rongara", "DISTRICT": "South Garo Hills", "CATEGORY": "Police Out Post" }, "geometry": { "type": "Point", "coordinates": [ 90.742514025000048, 25.464341093000087 ] } }
+,
+{ "type": "Feature", "id": 26, "properties": { "OBJECTID_1": 27, "OBJECTID": 260, "NAME": "Mawngap Police Out Post", "LOCATION": "Mawngap", "CONSTITUEN": "Mawphlang", "DISTRICT": "East Khasi Hills", "CATEGORY": "Police Out Post" }, "geometry": { "type": "Point", "coordinates": [ 91.776802631000066, 25.477161024000054 ] } }
+,
+{ "type": "Feature", "id": 27, "properties": { "OBJECTID_1": 28, "OBJECTID": 264, "NAME": "Nengkra Awe Police Station", "LOCATION": "Nengkra Awe", "CONSTITUEN": "Williamnagar", "DISTRICT": "East Garo Hills", "CATEGORY": "Police Station" }, "geometry": { "type": "Point", "coordinates": [ 90.676518479000038, 25.485216225000045 ] } }
+,
+{ "type": "Feature", "id": 28, "properties": { "OBJECTID_1": 29, "OBJECTID": 233, "NAME": "Raliang Police Out Post", "LOCATION": "Raliang", "CONSTITUEN": "Raliang", "DISTRICT": "Jaintia Hills", "CATEGORY": "Police Out Post" }, "geometry": { "type": "Point", "coordinates": [ 92.353459896000061, 25.506685207000089 ] } }
+,
+{ "type": "Feature", "id": 29, "properties": { "OBJECTID_1": 30, "OBJECTID": 182, "NAME": "Nongstoin Police Station", "LOCATION": "Nongstoin", "CONSTITUEN": "Nongstoin", "DISTRICT": "West Khasi Hills", "CATEGORY": "Police Station" }, "geometry": { "type": "Point", "coordinates": [ 91.279565845000036, 25.501385723000055 ] } }
+,
+{ "type": "Feature", "id": 30, "properties": { "OBJECTID_1": 31, "OBJECTID": 227, "NAME": "Ummulong Beat House", "LOCATION": "Ummulong", "CONSTITUEN": "Nartiang", "DISTRICT": "Jaintia Hills", "CATEGORY": "Beat House" }, "geometry": { "type": "Point", "coordinates": [ 92.153734333000045, 25.522223631000088 ] } }
+,
+{ "type": "Feature", "id": 31, "properties": { "OBJECTID_1": 32, "OBJECTID": 190, "NAME": "Shallang Police Out Post", "LOCATION": "Shallang", "CONSTITUEN": "Mawshynrut", "DISTRICT": "West Khasi Hills", "CATEGORY": "Police Out Post" }, "geometry": { "type": "Point", "coordinates": [ 90.868104237000068, 25.515121428000043 ] } }
+,
+{ "type": "Feature", "id": 32, "properties": { "OBJECTID_1": 33, "OBJECTID": 196, "NAME": "Dobashipara Beat House", "LOCATION": "Dobashipara", "CONSTITUEN": "South Tura", "DISTRICT": "West Garo Hills", "CATEGORY": "Beat House" }, "geometry": { "type": "Point", "coordinates": [ 90.208884413000078, 25.504624301000035 ] } }
+,
+{ "type": "Feature", "id": 33, "properties": { "OBJECTID_1": 34, "OBJECTID": 265, "NAME": "Rongrenggre Police Station", "LOCATION": "Rongrenggre", "CONSTITUEN": "Williamnagar", "DISTRICT": "East Garo Hills", "CATEGORY": "Police Station" }, "geometry": { "type": "Point", "coordinates": [ 90.617918129000032, 25.516979894000087 ] } }
+,
+{ "type": "Feature", "id": 34, "properties": { "OBJECTID_1": 35, "OBJECTID": 259, "NAME": "Sohryngkham Police Out Post", "LOCATION": "Sohryngkham", "CONSTITUEN": "Sohryngkham", "DISTRICT": "East Khasi Hills", "CATEGORY": "Police Out Post" }, "geometry": { "type": "Point", "coordinates": [ 91.945212315000049, 25.538372926000079 ] } }
+,
+{ "type": "Feature", "id": 35, "properties": { "OBJECTID_1": 36, "OBJECTID": 191, "NAME": "Tura Police Station", "LOCATION": "Tura", "CONSTITUEN": "North Tura", "DISTRICT": "West Garo Hills", "CATEGORY": "Police Station" }, "geometry": { "type": "Point", "coordinates": [ 90.227371184000049, 25.516792820000035 ] } }
+,
+{ "type": "Feature", "id": 36, "properties": { "OBJECTID_1": 37, "OBJECTID": 244, "NAME": "Ladan  Police Station", "LOCATION": "Rait Laban", "CONSTITUEN": "South Shillong", "DISTRICT": "East Khasi Hills", "CATEGORY": "Police Station" }, "geometry": { "type": "Point", "coordinates": [ 91.873290860000054, 25.558830760000035 ] } }
+,
+{ "type": "Feature", "id": 37, "properties": { "OBJECTID_1": 38, "OBJECTID": 253, "NAME": "Mawryngkneng Police Station", "LOCATION": "Mawryngkneng Gate", "CONSTITUEN": "Mawryngkneng", "DISTRICT": "East Khasi Hills", "CATEGORY": "Police Station" }, "geometry": { "type": "Point", "coordinates": [ 92.082934649000038, 25.560613164000074 ] } }
+,
+{ "type": "Feature", "id": 38, "properties": { "OBJECTID_1": 39, "OBJECTID": 266, "NAME": "Dobu Songmong Police Station", "LOCATION": "Dobu Songmong", "CONSTITUEN": "Songsak", "DISTRICT": "East Garo Hills", "CATEGORY": "Police Station" }, "geometry": { "type": "Point", "coordinates": [ 90.71229672700008, 25.545965159000048 ] } }
+,
+{ "type": "Feature", "id": 39, "properties": { "OBJECTID_1": 40, "OBJECTID": 258, "NAME": "Nongthymmai Beat House", "LOCATION": "Nongthymmai", "CONSTITUEN": "Nongthymmai", "DISTRICT": "East Khasi Hills", "CATEGORY": "Beat House" }, "geometry": { "type": "Point", "coordinates": [ 91.904800182000031, 25.565143963000082 ] } }
+,
+{ "type": "Feature", "id": 40, "properties": { "OBJECTID_1": 41, "OBJECTID": 183, "NAME": "Mairang Police Station", "LOCATION": "Mairang", "CONSTITUEN": "Mairang", "DISTRICT": "West Khasi Hills", "CATEGORY": "Police Station" }, "geometry": { "type": "Point", "coordinates": [ 91.648106678000033, 25.564230235000082 ] } }
+,
+{ "type": "Feature", "id": 41, "properties": { "OBJECTID_1": 42, "OBJECTID": 257, "NAME": "Kench's Trace  Beat House", "LOCATION": "Kench's Trace", "CONSTITUEN": "South Shillong", "DISTRICT": "East Khasi Hills", "CATEGORY": "Beat House" }, "geometry": { "type": "Point", "coordinates": [ 91.875298284000053, 25.567616226000041 ] } }
+,
+{ "type": "Feature", "id": 42, "properties": { "OBJECTID_1": 43, "OBJECTID": 249, "NAME": "Rynjah Police Station", "LOCATION": "Rynjah", "CONSTITUEN": "Nongthymmai", "DISTRICT": "East Khasi Hills", "CATEGORY": "Police Station" }, "geometry": { "type": "Point", "coordinates": [ 91.914138706000074, 25.568316827000046 ] } }
+,
+{ "type": "Feature", "id": 43, "properties": { "OBJECTID_1": 44, "OBJECTID": 245, "NAME": "Laitumkhrah Police Station", "LOCATION": "Nongrimbah", "CONSTITUEN": "East Shillong", "DISTRICT": "East Khasi Hills", "CATEGORY": "Police Station" }, "geometry": { "type": "Point", "coordinates": [ 91.900376824000034, 25.569206970000039 ] } }
+,
+{ "type": "Feature", "id": 44, "properties": { "OBJECTID_1": 45, "OBJECTID": 248, "NAME": "Madanriting Police Station", "LOCATION": "Madanriting", "CONSTITUEN": "Nongkrem", "DISTRICT": "East Khasi Hills", "CATEGORY": "Police Station" }, "geometry": { "type": "Point", "coordinates": [ 91.917644539000037, 25.56950665800008 ] } }
+,
+{ "type": "Feature", "id": 45, "properties": { "OBJECTID_1": 46, "OBJECTID": 263, "NAME": "Jhalupara  Police Out Post", "LOCATION": "Jhalupara", "CONSTITUEN": "South Shillong", "DISTRICT": "East Khasi Hills", "CATEGORY": "Police Out Post" }, "geometry": { "type": "Point", "coordinates": [ 91.869203208000044, 25.573574855000061 ] } }
+,
+{ "type": "Feature", "id": 46, "properties": { "OBJECTID_1": 47, "OBJECTID": 256, "NAME": "Jhalupara   Beat House", "LOCATION": "Jhalupara", "CONSTITUEN": "South Shillong", "DISTRICT": "East Khasi Hills", "CATEGORY": "Beat House" }, "geometry": { "type": "Point", "coordinates": [ 91.871064162000039, 25.574231560000044 ] } }
+,
+{ "type": "Feature", "id": 47, "properties": { "OBJECTID_1": 48, "OBJECTID": 243, "NAME": "Shillong Sardar Police Station", "LOCATION": "Jail Road", "CONSTITUEN": "North Shillong", "DISTRICT": "East Khasi Hills", "CATEGORY": "Police Station" }, "geometry": { "type": "Point", "coordinates": [ 91.880803491000052, 25.57861938700006 ] } }
+,
+{ "type": "Feature", "id": 48, "properties": { "OBJECTID_1": 49, "OBJECTID": 229, "NAME": "Nartiang Police Investigation Centre", "LOCATION": "Nartiang", "CONSTITUEN": "Nartiang", "DISTRICT": "Jaintia Hills", "CATEGORY": "Police Investigation Centre" }, "geometry": { "type": "Point", "coordinates": [ 92.220127395000077, 25.582435112000041 ] } }
+,
+{ "type": "Feature", "id": 49, "properties": { "OBJECTID_1": 50, "OBJECTID": 246, "NAME": "Lumdiengjri  Police Station", "LOCATION": "Lumdiengjri", "CONSTITUEN": "West Shillong", "DISTRICT": "East Khasi Hills", "CATEGORY": "Police Station" }, "geometry": { "type": "Point", "coordinates": [ 91.874457707000033, 25.582309278000082 ] } }
+,
+{ "type": "Feature", "id": 50, "properties": { "OBJECTID_1": 51, "OBJECTID": 261, "NAME": "Nongmynsong Police Out Post", "LOCATION": "Nongmynsong", "CONSTITUEN": "Pynthorumkhrah", "DISTRICT": "East Khasi Hills", "CATEGORY": "Police Out Post" }, "geometry": { "type": "Point", "coordinates": [ 91.908867904000033, 25.583258939000075 ] } }
+,
+{ "type": "Feature", "id": 51, "properties": { "OBJECTID_1": 52, "OBJECTID": 255, "NAME": "Pasteur  Beat House", "LOCATION": "Pasteur Institute", "CONSTITUEN": "North Shillong", "DISTRICT": "East Khasi Hills", "CATEGORY": "Beat House" }, "geometry": { "type": "Point", "coordinates": [ 91.885510001000057, 25.585685015000081 ] } }
+,
+{ "type": "Feature", "id": 52, "properties": { "OBJECTID_1": 53, "OBJECTID": 239, "NAME": "Nartiang Police Out Post", "LOCATION": "Nartiang", "CONSTITUEN": "Nartiang", "DISTRICT": "Jaintia Hills", "CATEGORY": "Police Out Post" }, "geometry": { "type": "Point", "coordinates": [ 92.212394209000081, 25.589720599000088 ] } }
+,
+{ "type": "Feature", "id": 53, "properties": { "OBJECTID_1": 54, "OBJECTID": 262, "NAME": "Maw Diangdiang Police Out Post", "LOCATION": "Maw Diangdiang", "CONSTITUEN": "Pynthorumkhrah", "DISTRICT": "East Khasi Hills", "CATEGORY": "Police Out Post" }, "geometry": { "type": "Point", "coordinates": [ 91.908088885000041, 25.591922182000076 ] } }
+,
+{ "type": "Feature", "id": 54, "properties": { "OBJECTID_1": 55, "OBJECTID": 247, "NAME": "Mawlai Police Station", "LOCATION": "Mawlai Nongkwar", "CONSTITUEN": "Mawlai", "DISTRICT": "East Khasi Hills", "CATEGORY": "Police Station" }, "geometry": { "type": "Point", "coordinates": [ 91.870032940000044, 25.591761090000091 ] } }
+,
+{ "type": "Feature", "id": 55, "properties": { "OBJECTID_1": 56, "OBJECTID": 236, "NAME": "Mukhroh Border Out Post", "LOCATION": "Mukhroh", "CONSTITUEN": "Mowkaiaw", "DISTRICT": "Jaintia Hills", "CATEGORY": "Border Out Post" }, "geometry": { "type": "Point", "coordinates": [ 92.487363422000044, 25.62396078800009 ] } }
+,
+{ "type": "Feature", "id": 56, "properties": { "OBJECTID_1": 57, "OBJECTID": 197, "NAME": "Rongram Beat House", "LOCATION": "Rongram", "CONSTITUEN": "North Tura", "DISTRICT": "West Garo Hills", "CATEGORY": "Beat House" }, "geometry": { "type": "Point", "coordinates": [ 90.259257947000037, 25.602105984000048 ] } }
+,
+{ "type": "Feature", "id": 57, "properties": { "OBJECTID_1": 58, "OBJECTID": 273, "NAME": "Bollongre Songsak Agitok Police Station", "LOCATION": "Bollongre Songsak Agitok", "CONSTITUEN": "Songsak", "DISTRICT": "East Garo Hills", "CATEGORY": "Police Station" }, "geometry": { "type": "Point", "coordinates": [ 90.599604749000036, 25.635128169000041 ] } }
+,
+{ "type": "Feature", "id": 58, "properties": { "OBJECTID_1": 59, "OBJECTID": 271, "NAME": "Rongjeng Police Station", "LOCATION": "Rongjeng", "CONSTITUEN": "Rongjeng", "DISTRICT": "East Garo Hills", "CATEGORY": "Police Station" }, "geometry": { "type": "Point", "coordinates": [ 90.796034698000028, 25.645648483000059 ] } }
+,
+{ "type": "Feature", "id": 59, "properties": { "OBJECTID_1": 60, "OBJECTID": 211, "NAME": "Umiam Police Station", "LOCATION": "Umiam", "CONSTITUEN": "Umroi", "DISTRICT": "Ri-Bhoi", "CATEGORY": "Police Station" }, "geometry": { "type": "Point", "coordinates": [ 91.912734497000031, 25.663305684000079 ] } }
+,
+{ "type": "Feature", "id": 60, "properties": { "OBJECTID_1": 61, "OBJECTID": 212, "NAME": "Umiam Police Out Post", "LOCATION": "Umiam", "CONSTITUEN": "Umroi", "DISTRICT": "Ri-Bhoi", "CATEGORY": "Police Out Post" }, "geometry": { "type": "Point", "coordinates": [ 91.92261486700005, 25.667574773000069 ] } }
+,
+{ "type": "Feature", "id": 61, "properties": { "OBJECTID_1": 62, "OBJECTID": 189, "NAME": "Raingdo Police Out Post", "LOCATION": "Raingdo", "CONSTITUEN": "Mawshynrut", "DISTRICT": "West Khasi Hills", "CATEGORY": "Police Out Post" }, "geometry": { "type": "Point", "coordinates": [ 91.068095289000041, 25.672096240000087 ] } }
+,
+{ "type": "Feature", "id": 62, "properties": { "OBJECTID_1": 63, "OBJECTID": 234, "NAME": "Saitsama Police Out Post", "LOCATION": "Saitsama", "CONSTITUEN": "Nartiang", "DISTRICT": "Jaintia Hills", "CATEGORY": "Police Out Post" }, "geometry": { "type": "Point", "coordinates": [ 92.377304035000066, 25.722069372000078 ] } }
+,
+{ "type": "Feature", "id": 63, "properties": { "OBJECTID_1": 64, "OBJECTID": 217, "NAME": "Umroi Police Investigation Centre", "LOCATION": "Umroi", "CONSTITUEN": "Umroi", "DISTRICT": "Ri-Bhoi", "CATEGORY": "Police Investigation Centre" }, "geometry": { "type": "Point", "coordinates": [ 91.979982330000041, 25.720218326000065 ] } }
+,
+{ "type": "Feature", "id": 64, "properties": { "OBJECTID_1": 65, "OBJECTID": 270, "NAME": "Gabil Bisa Police Station", "LOCATION": "Gabil Bisa", "CONSTITUEN": "Rongjeng", "DISTRICT": "East Garo Hills", "CATEGORY": "Police Station" }, "geometry": { "type": "Point", "coordinates": [ 90.819433501000049, 25.710191671000075 ] } }
+,
+{ "type": "Feature", "id": 65, "properties": { "OBJECTID_1": 66, "OBJECTID": 201, "NAME": "Selsella Police Out Post", "LOCATION": "Selsella", "CONSTITUEN": "Selsella", "DISTRICT": "West Garo Hills", "CATEGORY": "Police Out Post" }, "geometry": { "type": "Point", "coordinates": [ 90.025359264000031, 25.69680409700004 ] } }
+,
+{ "type": "Feature", "id": 66, "properties": { "OBJECTID_1": 67, "OBJECTID": 235, "NAME": "Khanduli Border Out Post", "LOCATION": "Khanduli", "CONSTITUEN": "Nartiang", "DISTRICT": "Jaintia Hills", "CATEGORY": "Border Out Post" }, "geometry": { "type": "Point", "coordinates": [ 92.419501578000052, 25.726555636000057 ] } }
+,
+{ "type": "Feature", "id": 67, "properties": { "OBJECTID_1": 68, "OBJECTID": 267, "NAME": "Bamil Nongrura  Police Station", "LOCATION": "Bamil Nongrura", "CONSTITUEN": "Rongjeng", "DISTRICT": "East Garo Hills", "CATEGORY": "Police Station" }, "geometry": { "type": "Point", "coordinates": [ 90.921891997000046, 25.713448198000037 ] } }
+,
+{ "type": "Feature", "id": 68, "properties": { "OBJECTID_1": 69, "OBJECTID": 219, "NAME": "Mawlasnai Police Out Post", "LOCATION": "Mawlasnai", "CONSTITUEN": "Mawhati", "DISTRICT": "Ri-Bhoi", "CATEGORY": "Police Out Post" }, "geometry": { "type": "Point", "coordinates": [ 92.13555010500005, 25.729130241000064 ] } }
+,
+{ "type": "Feature", "id": 69, "properties": { "OBJECTID_1": 70, "OBJECTID": 194, "NAME": "Dadenggre Police Station", "LOCATION": "Dadenggre", "CONSTITUEN": "Dadenggre", "DISTRICT": "West Garo Hills", "CATEGORY": "Police Station" }, "geometry": { "type": "Point", "coordinates": [ 90.176308334000055, 25.720243855000035 ] } }
+,
+{ "type": "Feature", "id": 70, "properties": { "OBJECTID_1": 71, "OBJECTID": 188, "NAME": "Dongkiing Ding Police Out Post", "LOCATION": "Dongkiing Ding", "CONSTITUEN": "Mairang", "DISTRICT": "West Khasi Hills", "CATEGORY": "Police Out Post" }, "geometry": { "type": "Point", "coordinates": [ 91.680221117000031, 25.74217759600009 ] } }
+,
+{ "type": "Feature", "id": 71, "properties": { "OBJECTID_1": 72, "OBJECTID": 215, "NAME": "Unsning Police Out Post", "LOCATION": "Unsning", "CONSTITUEN": "Unsning", "DISTRICT": "Ri-Bhoi", "CATEGORY": "Police Out Post" }, "geometry": { "type": "Point", "coordinates": [ 91.888627120000081, 25.749264598000082 ] } }
+,
+{ "type": "Feature", "id": 72, "properties": { "OBJECTID_1": 73, "OBJECTID": 218, "NAME": "Kyrdemkulai Police Out Post", "LOCATION": "Kyrdemkulai", "CONSTITUEN": "Unsning", "DISTRICT": "Ri-Bhoi", "CATEGORY": "Police Out Post" }, "geometry": { "type": "Point", "coordinates": [ 91.840716236000048, 25.751365294000038 ] } }
+,
+{ "type": "Feature", "id": 73, "properties": { "OBJECTID_1": 74, "OBJECTID": 199, "NAME": "Halidayganj Police Out Post", "LOCATION": "Halidayganj", "CONSTITUEN": "Selsella", "DISTRICT": "West Garo Hills", "CATEGORY": "Police Out Post" }, "geometry": { "type": "Point", "coordinates": [ 89.908402317000082, 25.736020948000089 ] } }
+,
+{ "type": "Feature", "id": 74, "properties": { "OBJECTID_1": 75, "OBJECTID": 200, "NAME": "Rajabala Police Out Post", "LOCATION": "Rajabala", "CONSTITUEN": "Rajabala", "DISTRICT": "West Garo Hills", "CATEGORY": "Police Out Post" }, "geometry": { "type": "Point", "coordinates": [ 89.984311415000036, 25.750534773000084 ] } }
+,
+{ "type": "Feature", "id": 75, "properties": { "OBJECTID_1": 76, "OBJECTID": 186, "NAME": "Aradongnga Police Out Post", "LOCATION": "Aradongnga", "CONSTITUEN": "Rambrai-Jyrngam", "DISTRICT": "West Khasi Hills", "CATEGORY": "Police Out Post" }, "geometry": { "type": "Point", "coordinates": [ 91.187238520000051, 25.831257332000064 ] } }
+,
+{ "type": "Feature", "id": 76, "properties": { "OBJECTID_1": 77, "OBJECTID": 268, "NAME": "Adokgre Police Station", "LOCATION": "Adokgre", "CONSTITUEN": "Kharkutta", "DISTRICT": "East Garo Hills", "CATEGORY": "Police Station" }, "geometry": { "type": "Point", "coordinates": [ 90.983535549000067, 25.867432711000049 ] } }
+,
+{ "type": "Feature", "id": 77, "properties": { "OBJECTID_1": 78, "OBJECTID": 221, "NAME": "Patharkhmah Police Out Post", "LOCATION": "Patharkhmah", "CONSTITUEN": "Jirang", "DISTRICT": "Ri-Bhoi", "CATEGORY": "Police Out Post" }, "geometry": { "type": "Point", "coordinates": [ 91.629584816000033, 25.885024833000045 ] } }
+,
+{ "type": "Feature", "id": 78, "properties": { "OBJECTID_1": 79, "OBJECTID": 193, "NAME": "Phulbari  Police Station", "LOCATION": "Phulbari", "CONSTITUEN": "Phulbari", "DISTRICT": "West Garo Hills", "CATEGORY": "Police Station" }, "geometry": { "type": "Point", "coordinates": [ 90.020388319000062, 25.876586904000078 ] } }
+,
+{ "type": "Feature", "id": 79, "properties": { "OBJECTID_1": 80, "OBJECTID": 272, "NAME": "Kosi Gate Police Station", "LOCATION": "Kosi Gate", "CONSTITUEN": "Resubelpara", "DISTRICT": "East Garo Hills", "CATEGORY": "Police Station" }, "geometry": { "type": "Point", "coordinates": [ 90.510144727000068, 25.886710878000088 ] } }
+,
+{ "type": "Feature", "id": 80, "properties": { "OBJECTID_1": 81, "OBJECTID": 269, "NAME": "Upper Nogolpara Police Station", "LOCATION": "Upper Nogolpara", "CONSTITUEN": "Mendipathar", "DISTRICT": "East Garo Hills", "CATEGORY": "Police Station" }, "geometry": { "type": "Point", "coordinates": [ 90.783977845000038, 25.89560496900009 ] } }
+,
+{ "type": "Feature", "id": 81, "properties": { "OBJECTID_1": 82, "OBJECTID": 210, "NAME": "Nongpoh Police Out Post", "LOCATION": "Nongpoh", "CONSTITUEN": "Nongpoh", "DISTRICT": "Ri-Bhoi", "CATEGORY": "Police Out Post" }, "geometry": { "type": "Point", "coordinates": [ 91.871645120000039, 25.908739473000082 ] } }
+,
+{ "type": "Feature", "id": 82, "properties": { "OBJECTID_1": 83, "OBJECTID": 209, "NAME": "Nongpoh Police Station", "LOCATION": "Nongpoh", "CONSTITUEN": "Nongpoh", "DISTRICT": "Ri-Bhoi", "CATEGORY": "Police Station" }, "geometry": { "type": "Point", "coordinates": [ 91.888308816000063, 25.90903996600008 ] } }
+,
+{ "type": "Feature", "id": 83, "properties": { "OBJECTID_1": 84, "OBJECTID": 195, "NAME": "Tikrikilla Police Station", "LOCATION": "Tikrikilla", "CONSTITUEN": "Tikrikilla", "DISTRICT": "West Garo Hills", "CATEGORY": "Police Station" }, "geometry": { "type": "Point", "coordinates": [ 90.220232980000048, 25.943493825000076 ] } }
+,
+{ "type": "Feature", "id": 84, "properties": { "OBJECTID_1": 85, "OBJECTID": 220, "NAME": "Byrnihat Police Out Post", "LOCATION": "Byrnihat", "CONSTITUEN": "Jirang", "DISTRICT": "Ri-Bhoi", "CATEGORY": "Police Out Post" }, "geometry": { "type": "Point", "coordinates": [ 91.864579941000045, 26.036945695000043 ] } }
+,
+{ "type": "Feature", "id": 85, "properties": { "OBJECTID_1": 86, "OBJECTID": 216, "NAME": "Umsiang Police Out Post", "LOCATION": "Umsiang", "CONSTITUEN": "Mawhati", "DISTRICT": "Ri-Bhoi", "CATEGORY": "Police Out Post" }, "geometry": { "type": "Point", "coordinates": [ 92.16615884600003, 26.068378062000079 ] } }
+,
+{ "type": "Feature", "id": 86, "properties": { "OBJECTID_1": 87, "OBJECTID": 222, "NAME": "Pillangkata Police Out Post", "LOCATION": "Pillangkata", "CONSTITUEN": "Jirang", "DISTRICT": "Ri-Bhoi", "CATEGORY": "Police Out Post" }, "geometry": { "type": "Point", "coordinates": [ 91.827859957000044, 26.07520723500005 ] } }
+,
+{ "type": "Feature", "id": 87, "properties": { "OBJECTID_1": 88, "OBJECTID": 213, "NAME": "Khanapara Police Station", "LOCATION": "Khanapara", "CONSTITUEN": "Jirang", "DISTRICT": "Ri-Bhoi", "CATEGORY": "Police Station" }, "geometry": { "type": "Point", "coordinates": [ 91.825038565000057, 26.106446030000086 ] } }
+,
+{ "type": "Feature", "id": 88, "properties": { "OBJECTID_1": 89, "OBJECTID": 214, "NAME": "Khanapara Police Out Post", "LOCATION": "Khanapara", "CONSTITUEN": "Jirang", "DISTRICT": "Ri-Bhoi", "CATEGORY": "Police Out Post" }, "geometry": { "type": "Point", "coordinates": [ 91.830826929000068, 26.113638842000057 ] } }
+
+]
+}
